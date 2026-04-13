@@ -1,0 +1,203 @@
+Job Summaries — 2026-04-02
+Total: 20
+
+================================================================================
+SOURCE: jobsdb_thailand
+URL:    https://th.jobsdb.com/job/91301034
+
+*Job Title:* Software Tester (Automate/Performance/Manual)
+*Company:* Playtorium Solutions Public Company Limited
+*Salary:* Not specified
+*Location:* Phaya Thai, Bangkok (Hybrid)
+*About:* Designs test cases, implements system tests, and analyzes results. Creates automated and performance test scripts using Robot framework, Cypress, Playwright, LoadRunner, and Jmeter. Coordinates with teams to resolve defects and facilitate UAT.
+
+================================================================================
+SOURCE: jobsdb_thailand
+URL:    https://th.jobsdb.com/job/91301067
+
+*Job Title:* Digital Architect (AEC) 
+*Company:* Bank of Ayudhya Public Company Limited 
+*Salary:* Not specified 
+*Location:* Yan Nawa, Bangkok (Hybrid) 
+*About:* Principal strategic advisor for enterprise-level governance, aligning business objectives with technology investments across subsidiaries. Establishes regional architecture standards and frameworks, ensuring cross-border compliance and M&A integration.
+
+================================================================================
+SOURCE: jobsdb_thailand
+URL:    https://th.jobsdb.com/job/91301004
+
+*Job Title:* Mechanical Engineer (Construction)
+*Company:* THAI SHOP ENGINEERING CO., LTD.
+*Salary:* Not specified
+*Location:* Bang Na, Bangkok
+*About:* Responsible for designing, estimating, and assisting in plumbing, fire protection, and HVAC projects. Coordinates with teams, prepares shop drawings, ensures compliance with regulations, and supports post-handover activities.
+
+================================================================================
+SOURCE: jobsdb_thailand
+URL:    https://th.jobsdb.com/job/91300938
+
+*Job Title:* Performance Management & Organization Development Manager
+*Company:* DEESTONE CORPORATION PUBLIC COMPANY LIMITED
+*Salary:* Not specified
+*Location:* Krathum Baen, Samut Sakhon
+*About:* Designs and implements performance evaluation, talent management, and organizational development systems for a manufacturing group.
+
+================================================================================
+SOURCE: jobsdb_thailand
+URL:    https://th.jobsdb.com/job/91300920
+
+*Job Title:* Video Editor & Motion Graphic
+*Company:* Mizuhada Group Co., Ltd.
+*Salary:* Not specified
+*Location:* Pathum Wan, Bangkok
+*About:* Edit video content for platforms like social media and ads; collaborate with marketing; handle pre-production, filming, and basic motion graphics.
+
+================================================================================
+SOURCE: jobsdb_thailand
+URL:    https://th.jobsdb.com/job/91300908
+
+*Job Title:* Field Service Engineer
+*Company:* Adecco Recruitment (Thailand) Limited
+*Salary:* ฿40,000 – ฿50,000 per month
+*Location:* Bangkok
+*About:* Technical specialist for maintenance and troubleshooting of dosing systems with remote and on-site support. Ensures system efficiency and client satisfaction.
+
+================================================================================
+SOURCE: jobsdb_thailand
+URL:    https://th.jobsdb.com/job/91300844
+
+*Job Title:* Assistant manager of Japanese restaurant
+*Company:* Shiro food co.,ltd
+*Salary:* ฿18,000 – ฿20,000 per month
+*Location:* Thai Hospital, Bangkok
+*About:* Oversees daily operations, team supervision, and customer service standards in a Japanese restaurant. Reports sales, manages stock, and coordinates with kitchen, accounting, and purchasing teams.
+
+================================================================================
+SOURCE: jobsdb_thailand
+URL:    https://th.jobsdb.com/job/91300808
+
+*Job Title:* HR Operations & Internal Policy (Contract) 
+*Company:* PTT Digital Solutions Company Limited 
+*Salary:* ฿15,000 – ฿20,000 per month 
+*Location:* Bangkok 
+*About:* Supports end-to-end recruitment, HR documentation, employee onboarding/offboarding, policy communication, and vendor coordination for smooth HR operations.
+
+================================================================================
+SOURCE: jobsdb_thailand
+URL:    https://th.jobsdb.com/job/91299955
+
+*Job Title:* Sale
+*Company:* wimapackaing
+*Salary:* Not specified
+*Location:* Pathum Thani (Hybrid)
+*About:* Seeking sales professionals to build customer relationships and promote company products/services in a hybrid role based in Pathum Thani.
+
+================================================================================
+SOURCE: jobsdb_thailand
+URL:    https://th.jobsdb.com/job/91151216
+
+*Job Title:* Brand Growth & Media Manager
+*Company:* Soma Health
+*Salary:* ฿55,000 – ฿80,000 per month
+*Location:* Bangkok
+*About:* Lead brand visibility and media strategy for a leading regenerative medicine clinic in Bangkok, driving patient volume through social media, content, and media placements.
+
+================================================================================
+SOURCE: jobsdb_thailand
+URL:    https://th.jobsdb.com/job/91300736
+
+*Job Title:* Service Desk System Engineer (Outsource)
+*Company:* PTT Digital Solutions Company Limited
+*Salary:* ฿27,000 – ฿40,000 per month
+*Location:* Bangkok (Hybrid)
+*About:* Manages Call Center and Service Desk systems, ensuring high availability and stability through incident resolution, process improvements, and user support.
+
+================================================================================
+SOURCE: jobsdb_thailand
+URL:    https://th.jobsdb.com/job/91300709
+
+*Job Title:* Manage Service (Add on service)  
+*Company:* Symphony Communication Public Company Limited  
+*Salary:* Not specified  
+*Location:* Chatuchak, Bangkok  
+*About:* Provide technical support and troubleshooting for hardware, software, and network infrastructure. Manage service requests, escalate urgent issues, and collaborate with Pre-Sales teams for smooth After-Sales support.
+
+================================================================================
+SOURCE: jobsdb_thailand
+URL:    https://th.jobsdb.com/job/91300667
+
+*Job Title:* Senior Mechanical Engineer
+*Company:* THAI SHOP ENGINEERING CO., LTD.
+*Salary:* Not specified
+*Location:* Bang Na, Bangkok
+*About:* Designs and develops cost-effective HVAC, plumbing, utility, and fire protection systems for tender projects. Oversees project implementation, scheduling, cost control, and quality assurance while managing teams on-site and in offices.
+
+================================================================================
+SOURCE: jobsdb_thailand
+URL:    https://th.jobsdb.com/job/91300590
+
+*Job Title:* Cashier
+*Company:* BUILD & BIRD LTD., PART.
+*Salary:* ฿15,000 – ฿18,000 per month
+*Location:* Nonthaburi
+*About:* Handle payments, issue tax invoices, and maintain cashier counter area in a retail shop.
+
+================================================================================
+SOURCE: jobsdb_thailand
+URL:    https://th.jobsdb.com/job/91300514
+
+*Job Title:* Procurement
+*Company:* HHA (THAILAND) CO., LTD.
+*Salary:* Not specified
+*Location:* I'm Not Afraid, Chon Buri
+*About:* Procurement role requiring 2+ years in home appliances industry (refrigerators, washing machines, air conditioners). Responsible for supplier management, order processes, logistics coordination, and cost analysis.
+
+================================================================================
+SOURCE: jobsdb_thailand
+URL:    https://th.jobsdb.com/job/91300483
+
+*Job Title:* Senior New Model Engineer
+*Company:* Advanced Composite System Ltd.
+*Salary:* Not specified
+*Location:* Klaeng, Rayong
+*About:* Leads new model development from concept to manufacturing for automotive/motorcycle helmet components using CATIA, injection molding, and composite materials while collaborating with global R&D teams.
+
+================================================================================
+SOURCE: jobsdb_thailand
+URL:    https://th.jobsdb.com/job/91300347
+
+*Job Title:* Production staff (Stamping)  
+*Company:* Bangkok Metal Works Co.,Ltd.  
+*Salary:* Not specified  
+*Location:* Bang Phli, Samut Prakan  
+*About:* Operate metal stamping machines to meet production targets, perform quality checks, maintain 5S standards, and support team tasks with attention to detail and safety.
+
+================================================================================
+SOURCE: jobsdb_thailand
+URL:    https://th.jobsdb.com/job/91300253
+
+*Job Title:* Assistant HR Manager
+*Company:* INTERNATIONAL SCHOOL EASTERN SEABOARD CO., LTD.
+*Salary:* Not specified
+*Location:* Si Racha, Chon Buri
+*About:* Manages HR operations including payroll, benefits, recruitment, and compliance for an international school in Thailand.
+
+================================================================================
+SOURCE: jobsdb_thailand
+URL:    https://th.jobsdb.com/job/91300215
+
+*Job Title:* Designer (sportswear)  
+*Company:* PREMIER SPORTS CONSULTING CO.,LTD  
+*Salary:* ฿20,000 – ฿30,000 per month  
+*Location:* Bang Phli, Samut Prakan  
+*About:* Designs graphics for sportswear including football shirts, team uniforms, and competition wear. Uses Adobe Photoshop and Illustrator to create layouts, models, and production-ready artwork.
+
+================================================================================
+SOURCE: jobsdb_thailand
+URL:    https://th.jobsdb.com/job/91300163
+
+*Job Title:* Performance Marketing
+*Company:* IMAX POWERTOOL CO., LTD.
+*Salary:* ฿85,000 – ฿100,000 per month
+*Location:* Bangkok
+*About:* Develop performance marketing strategies for Shopee Ads and Lazada Sponsored Solutions, optimize campaigns, and deliver data-driven reports to enhance ROAS and revenue.
+

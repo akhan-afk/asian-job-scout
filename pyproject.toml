@@ -1,0 +1,20 @@
+[project]
+name = "jobagent"
+version = "0.1.0"
+description = "Automated job scraper and Telegram bot for Japan and Korea job markets"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "deep-translator>=1.11.4",
+    "langchain-mistralai>=1.1.2",
+    "langfuse>=2.0.0",
+    "langgraph>=1.1.4",
+    "langgraph-checkpoint-mongodb>=0.3.1",
+    "mistralai>=1.12.4",
+    "playwright>=1.58.0",
+    "pymongo>=4.15.5",
+    "python-dotenv>=1.2.2",
+    "python-telegram-bot>=22.6",
+    "schedule>=1.2.2",
+]

@@ -1,0 +1,363 @@
+Job Scrape Results — 2026-04-02
+Total listings: 20
+
+================================================================================
+SOURCE:       jobsdb_thailand
+URL:          https://th.jobsdb.com/job/91301034
+TITLE:        Software Tester (Automate/Performance/Manual)
+TITLE [EN]:   Software Tester (Automate/Performance/Manual)
+COMPANY:      Playtorium Solutions Public Company Limited
+COMPANY [EN]: Playtorium Solutions Public Company Limited
+LOCATION:     Phaya Thai, Bangkok (Hybrid)
+LOCATION [EN]:Phaya Thai, Bangkok (Hybrid)
+SALARY:       
+SALARY [EN]:  
+DEADLINE:     
+DEADLINE [EN]:
+DESCRIPTION:
+We are looking for Software Tester (Manual/Functional)Automate Tester (Robot framework/Cypress/Playwright)Performance Tester (LoadRunner/Jmeter)Job Description:• Design test case and implement system test• Record/analyze test result and provide feedback to development team• Perform reporting the defect to the bug tracking system• Create automate test script by using Robot framework, Cypress and/or Playwright for Automate test position• Create performance test script by using LoadRunner and/or Jmeter for Performance test position• Co-ordinate with Developers , SA, and PM to solve software error• Develop project-related documents such as user acceptance test document and user manual• Coordinate and facilitate the User Acceptance TestQualifications:• Bachelor’s degree in Computer Engineering, Computer Science or related field• 0-3 years’ experience in Software Testing for Junior• Minimum 3 years’ experience in Software Testing for Senior• Knowledge of automate and performance testing tool would be an advantage• Knowledge of SQL Statement, Store Procedure, Query and Oracle PL/SQL is a plus• A proactive, team player with ability to work in dynamic environments• Able to work on site• Experience in Automation Testing and/or Holding ISEB/ISTQB would be a plus• Good Thai and English communication skills Our office is located right next to BTS Sanam Pao Station.For more information about us please visit https://playtorium.co.th/Interested candidates can apply via the Playsmart system a
+DESCRIPTION [EN]:
+We are looking for Software Tester (Manual/Functional)Automate Tester (Robot framework/Cypress/Playwright)Performance Tester (LoadRunner/Jmeter)Job Description:• Design test case and implement system test• Record/analyze test result and provide feedback to development team• Perform reporting the defect to the bug tracking system• Create automate test script by using Robot framework, Cypress and/or Playwright for Automate test position• Create performance test script by using LoadRunner and/or Jmeter for Performance test position• Co-ordinate with Developers , SA, and PM to solve software error• Develop project-related documents such as user acceptance test document and user manual• Coordinate and facilitate the User Acceptance TestQualifications:• Bachelor’s degree in Computer Engineering, Computer Science or related field• 0-3 years’ experience in Software Testing for Junior• Minimum 3 years’ experience in Software Testing for Senior• Knowledge of automate and performance testing tool would be an advantage• Knowledge of SQL Statement, Store Procedure, Query and Oracle PL/SQL is a plus• A proactive, team player with ability to work in dynamic environments• Able to work on site• Experience in Automation Testing and/or Holding ISEB/ISTQB would be a plus• Good Thai and English communication skills Our office is located right next to BTS Sanam Pao Station.For more information about us please visit https://playtorium.co.th/Interested candidates can apply via the Playsmart system a
+
+================================================================================
+SOURCE:       jobsdb_thailand
+URL:          https://th.jobsdb.com/job/91301067
+TITLE:        Digital Architect (AEC)
+TITLE [EN]:   Digital Architect (AEC)
+COMPANY:      Bank of Ayudhya Public Company Limited
+COMPANY [EN]: Bank of Ayudhya Public Company Limited
+LOCATION:     Yan Nawa, Bangkok (Hybrid)
+LOCATION [EN]:Yan Nawa, Bangkok (Hybrid)
+SALARY:       
+SALARY [EN]:  
+DEADLINE:     
+DEADLINE [EN]:
+DESCRIPTION:
+Scope OverviewThe Digital Architect (AEC) serves as a principal strategic advisor to senior management, providing enterprise-level governance and steering the alignment of business objectives with technological investments across subsidiaries.This role establishes regional architecture standards and frameworks, overseeing the convergence of enterprise strategy, process optimization, and scalable technology. Acting as the authority on business capability models and technical solution reviews, the Architect perform M&A Due Diligence, post-deal integration strategies, on top of cross-border architectural compliance, ensuring all regional systems and acquired entities natively integrate with MUFG and Krungsri principles.What you'll doBusiness Architecture Governance & StrategyStrategic Oversight: Provide executive guidance to senior stakeholders on translating regional business strategy into standardized capability models and long-term architectural roadmaps.Artifact Governance: Govern and review business architecture artifacts (e.g., capability maps, value streams) to ensure regional alignment with overarching enterprise standards.Process Consultation: Consult on the definition of target operating models and organizational processes, ensuring regional transformation initiatives adhere to the broader enterprise vision.Requirement Validation: Review and validate complex business requirements and user journeys to guarantee architectural traceability to strategic business objectives
+DESCRIPTION [EN]:
+Scope OverviewThe Digital Architect (AEC) serves as a principal strategic advisor to senior management, providing enterprise-level governance and steering the alignment of business objectives with technological investments across subsidiaries.This role establishes regional architecture standards and frameworks, overseeing the convergence of enterprise strategy, process optimization, and scalable technology. Acting as the authority on business capability models and technical solution reviews, the Architect perform M&A Due Diligence, post-deal integration strategies, on top of cross-border architectural compliance, ensuring all regional systems and acquired entities natively integrate with MUFG and Krungsri principles.What you'll doBusiness Architecture Governance & StrategyStrategic Oversight: Provide executive guidance to senior stakeholders on translating regional business strategy into standardized capability models and long-term architectural roadmaps.Artifact Governance: Govern and review business architecture artifacts (e.g., capability maps, value streams) to ensure regional alignment with overarching enterprise standards.Process Consultation: Consult on the definition of target operating models and organizational processes, ensuring regional transformation initiatives adhere to the broader enterprise vision.Requirement Validation: Review and validate complex business requirements and user journeys to guarantee architectural traceability to strategic business objectives
+
+================================================================================
+SOURCE:       jobsdb_thailand
+URL:          https://th.jobsdb.com/job/91301004
+TITLE:        Mechanical Engineer (Construction)
+TITLE [EN]:   Mechanical Engineer (Construction)
+COMPANY:      THAI TOKO ENGINEERING CO., LTD.
+COMPANY [EN]: THAI SHOP ENGINEERING CO., LTD.
+LOCATION:     Bang Na, Bangkok
+LOCATION [EN]:Bang Na, Bangkok
+SALARY:       
+SALARY [EN]:  
+DEADLINE:     
+DEADLINE [EN]:
+DESCRIPTION:
+Will be take responsibility of design, estimation for plumbing work, fire protection work and HVAC Work, also assist in project implementation.Co-ordinate with other engineers, subcontactor and customerParticipant in project planing meetingResponsible of planing and preparing shop drawing, data installation, and project schedule. Also communicate with sub subcontractor.Controlling a installation work to meet relevant regulations and standardsSupport customer after handoverQualification RequiredBachelor’s Degree in Mechanical EngineeringAt least 3 - 5 years experience in Mechanical EngineeringGood commands of English (writing, speaking, listening and reading).Good computer skills and a familiarity with Microsoft Windows / AUTOCAD and otherGood Leadership, Management skill, Teamwork ability and Self-motivated work ethic and able to perform other Duties as assignedAble to relocate to work at other Province as Head office, Branch Office and Site Office. (Rayong or other)Preferable Skills / ExperiencesKnowledgeable of HVAC System / Plumbing System / Fire Protection System/ Mechanical utility workExperience in Site Engineer for construction industry fieldAssociate Engineer LicenseAllowanceSocial Insurance / Group Health InsuranceBonus depends on corporate profit and individual achievementUniformProvident Fund (After probation 1 year)Dental care (terms are as specified by the company)Annual Health check up
+DESCRIPTION [EN]:
+Will be take responsibility of design, estimation for plumbing work, fire protection work and HVAC Work, also assist in project implementation.Co-ordinate with other engineers, subcontactor and customerParticipant in project planing meetingResponsible of planing and preparing shop drawing, data installation, and project schedule. Also communicate with sub subcontractor.Controlling a installation work to meet relevant regulations and standardsSupport customer after handoverQualification RequiredBachelor’s Degree in Mechanical EngineeringAt least 3 - 5 years experience in Mechanical EngineeringGood commands of English (writing, speaking, listening and reading).Good computer skills and a familiarity with Microsoft Windows / AUTOCAD and otherGood Leadership, Management skill, Teamwork ability and Self-motivated work ethic and able to perform other Duties as assignedAble to relocate to work at other Province as Head office, Branch Office and Site Office. (Rayong or other)Preferable Skills / ExperiencesKnowledgeable of HVAC System / Plumbing System / Fire Protection System/ Mechanical utility workExperience in Site Engineer for construction industry fieldAssociate Engineer LicenseAllowanceSocial Insurance / Group Health InsuranceBonus depends on corporate profit and individual achievementUniformProvident Fund (After probation 1 year)Dental care (terms are as specified by the company)Annual Health check up
+
+================================================================================
+SOURCE:       jobsdb_thailand
+URL:          https://th.jobsdb.com/job/91300938
+TITLE:        Performance Management & Organization Development Manager
+TITLE [EN]:   Performance Management & Organization Development Manager
+COMPANY:      DEESTONE CORPORATION PUBLIC COMPANY LIMITED
+COMPANY [EN]: DEESTONE CORPORATION PUBLIC COMPANY LIMITED
+LOCATION:     Krathum Baen, Samut Sakhon
+LOCATION [EN]:Krathum Baen, Samut Sakhon
+SALARY:       
+SALARY [EN]:  
+DEADLINE:     
+DEADLINE [EN]:
+DESCRIPTION:
+Job Description1. จัดทำระบบ และดำเนินการตามระบบการประเมินผลการปฏิบัติงานประจำปี ตามกลยุทธ์ของแต่ละปีของบริษัทสำเร็จตามเป้าหมาย2. จัดทำระบบ และดำเนินการ การเลื่อนตำแหน่งและปรับค่าจ้างค่าตอบแทน ของพนักงาน3. จัดทำระบบ และดำเนินการ Succession Planning, Talent Management, Competency, KPI4. จัดทำและพัฒนาด้าน Organization Development, learning Development, Organization Communication, มีความเข้าใจ การจัดทำ Change Management หรือ Transformation คุณสมบัติ1. ระดับปริญญาตรี ขึ้นไป สาขาการบริหาร หรือพัฒนาทรัพยากรบุคคล, บริหารธุรกิจ, รัฐศาสตร์, รัฐประศาสนศาสตร์ หรือสาขาอื่นที่เกี่ยวข้อง2. มีความรู้ ความสามารถ การใช้สูตร Excel สำหรับการจัดเก็บและวิเคราะห์ข้อมูล (Data Analysis, HR Analytic)3. มีความรู้ด้านกฏหมาย การจัดทำค่าจ้างค่าตอบแทน พนักงาน4. มีความรู้ ความเข้าใจการจัดทำโครงสร้างค่าจ้าง และสวัสดิการพนักงาน5. มีทักษะในการวิเคราะห์ วางแผน6. พร้อมรับการเปลี่ยนแปลงอยู่เสมอๆ7. มีทักษะการสื่อสาร การนำเสนอ การเจรจาที่มุ่งผลลัพทธ์และการเปลี่ยนแปลงเชิงบวก8. สามารถเดินทางปฏิบัติงาน โรงงานและสำนักงานของกลุ่มบริษัทดีสโตนได้
+DESCRIPTION [EN]:
+Job Description1. Create and implement an annual performance evaluation system. According to the company's annual strategy, goals were achieved 2. Create a system and carry out promotions and adjust wages of employees. 3. Create a system and carry out Succession Planning, Talent Management, Competency, KPI. 4. Create and develop Organization Development, learning Development, Organization Communication, have an understanding of Change Management or Transformation. Qualifications 1. Bachelor's degree or higher in Management. or human resource development, business administration, political science, public administration or other related fields2. Have knowledge and ability to use Excel formulas for storing and analyzing data (Data Analysis, HR Analytic). 3. Have legal knowledge. Preparation of wages and compensation for employees 4. Have knowledge and understanding of the preparation of wage structures. and employee welfare5. Have analytical and planning skills. 6. Always ready to receive change. 7. Have communication, presentation, and negotiation skills that focus on results and positive change.8. Able to travel to work Factories and offices of the Destone Group
+
+================================================================================
+SOURCE:       jobsdb_thailand
+URL:          https://th.jobsdb.com/job/91300920
+TITLE:        Video Editor & Motion Graphic
+TITLE [EN]:   Video Editor & Motion Graphic
+COMPANY:      Mizuhada Group Co., Ltd.
+COMPANY [EN]: Mizuhada Group Co., Ltd.
+LOCATION:     Pathum Wan, Bangkok
+LOCATION [EN]:Pathum Wan, Bangkok
+SALARY:       
+SALARY [EN]:  
+DEADLINE:     
+DEADLINE [EN]:
+DESCRIPTION:
+Responsibilities:Edit video content for various platforms, including social media, websites, and advertisementsCollaborate with the marketing team to understand project requirements and ensure outputs align with brand guidelinesPlan and organize pre-production activities, including scriptwriting, storyboarding, and equipment setupDevelop shot lists and production schedulesOperate video cameras, audio equipment, and lighting systems during productionEnsure all video content meets high quality standards and maintains brand consistencyMaintain a strong understanding of video formats, resolutions, and production best practicesStay up to date with industry trends and video editing tools to continuously improve outputSupport basic motion graphics creationQualifications:Proven experience as a Videographer, Motion Graphic Designer, or in a similar roleProficiency in video production equipment and editing softwareStrong eye for composition, framing, lighting, and visual storytellingBasic skills in motion graphicsA portfolio of previous work is required
+DESCRIPTION [EN]:
+Responsibilities:Edit video content for various platforms, including social media, websites, and advertisementsCollaborate with the marketing team to understand project requirements and ensure outputs align with brand guidelinesPlan and organize pre-production activities, including scriptwriting, storyboarding, and equipment setupDevelop shot lists and production schedulesOperate video cameras, audio equipment, and lighting systems during productionEnsure all video content meets high quality standards and maintains brand consistencyMaintain a strong understanding of video formats, resolutions, and production best practicesStay up to date with industry trends and video editing tools to continuously improve outputSupport basic motion graphics creationQualifications:Proven experience as a Videographer, Motion Graphic Designer, or in a similar roleProficiency in video production equipment and editing softwareStrong eye for composition, framing, lighting, and visual storytellingBasic skills in motion graphicsA portfolio of previous work is required
+
+================================================================================
+SOURCE:       jobsdb_thailand
+URL:          https://th.jobsdb.com/job/91300908
+TITLE:        Field Service Engineer
+TITLE [EN]:   Field Service Engineer
+COMPANY:      Adecco Recruitment (Thailand) Limited
+COMPANY [EN]: Adecco Recruitment (Thailand) Limited
+LOCATION:     Bangkok
+LOCATION [EN]:Bangkok
+SALARY:       ฿40,000 – ฿50,000 per month
+SALARY [EN]:  ฿40,000 – ฿50,000 per month
+DEADLINE:     
+DEADLINE [EN]:
+DESCRIPTION:
+Our client is a trading company that distributes products for the international group, a global manufacturer of dosing pumps and metering systems. The company specializes in providing chemical dosing solutions for industries such as water treatment, cleaning, and hygiene.For this Field Service Engineer position:They are seeking a technical specialist to oversee the maintenance and troubleshooting of dosing systems. This role combines remote support with on-site service to ensure optimal system efficiency and consistently high levels of client satisfaction.Job descriptionHelp customers solve problems over the phone, via email, or by dropping by in person.Figure out and fix any hiccups with their dosing systems, whether they’re mechanical, electrical, or software-related.Set up and install new equipment so it’s ready to run perfectly from day one.Perform regular check-ups (preventive maintenance) to keep everything running reliably.Chat with their R&D and production teams to report what’s happening in the field and suggest ways they can make their products even better.Write down the details of your service visits and keep documentation organized and accurate.Use your technical know-how to help the sales team answer tough questions before and after a deal is closed.Show customers and partners the ropes so they know exactly how to use and look after their systems.QualificationBachelor’s degree in engineeringMinimum of 3 years of Service engineer, Technical engineer, Field enginee
+DESCRIPTION [EN]:
+Our client is a trading company that distributes products for the international group, a global manufacturer of dosing pumps and metering systems. The company specializes in providing chemical dosing solutions for industries such as water treatment, cleaning, and hygiene.For this Field Service Engineer position:They are seeking a technical specialist to oversee the maintenance and troubleshooting of dosing systems. This role combines remote support with on-site service to ensure optimal system efficiency and consistently high levels of client satisfaction.Job descriptionHelp customers solve problems over the phone, via email, or by dropping by in person.Figure out and fix any hiccups with their dosing systems, whether they’re mechanical, electrical, or software-related.Set up and install new equipment so it’s ready to run perfectly from day one.Perform regular check-ups (preventive maintenance) to keep everything running reliably.Chat with their R&D and production teams to report what’s happening in the field and suggest ways they can make their products even better.Write down the details of your service visits and keep documentation organized and accurate.Use your technical know-how to help the sales team answer tough questions before and after a deal is closed.Show customers and partners the ropes so they know exactly how to use and look after their systems.QualificationBachelor’s degree in engineeringMinimum of 3 years of Service engineer, Technical engineer, Field enginee
+
+================================================================================
+SOURCE:       jobsdb_thailand
+URL:          https://th.jobsdb.com/job/91300844
+TITLE:        ผู้ช่วยผู้จัดการร้านอาหารญี่ปุ่น
+TITLE [EN]:   Assistant manager of Japanese restaurant
+COMPANY:      Shiro food co.,ltd
+COMPANY [EN]: Shiro food co.,ltd
+LOCATION:     Thawi Watthana, Bangkok
+LOCATION [EN]:Thai Hospital, Bangkok
+SALARY:       ฿18,000 – ฿20,000 per month
+SALARY [EN]:  ฿18,000 – ฿20,000 per month
+DEADLINE:     
+DEADLINE [EN]:
+DESCRIPTION:
+การควบคุมการปฏิบัติงานประจำวัน• ดูแลความเรียบร้อยของร้านในแต่ละกะ• ตรวจสอบ Opening / Closing Checklist• ควบคุมมาตรฐานบริการหน้าร้านการดูแลทีมงาน• ควบคุมพนักงานในกะ• สอนงานพนักงานใหม่• ประเมิน Performance เบื้องต้นการบริการลูกค้า• ดูแลลูกค้า VIP• แก้ไขปัญหาหน้างาน• ตรวจสอบความพึงพอใจลูกค้าการควบคุมต้นทุน• ตรวจสอบสต๊อกประจำวัน• ควบคุมของเสียและการใช้วัตถุดิบ• รายงานยอดขายประจำวันสนับสนุนผู้จัดการร้าน• ทำรายงาน KPI• ประสานงานกับครัว บัญชี และจัดซื้อ• ปฏิบัติหน้าที่แทนผู้จัดการเมื่อไม่อยู่คุณสมบัติผู้สมัครประสบการณ์ร้านอาหารอย่างน้อย 3 ปีมีประสบการณ์หัวหน้ากะ / Supervisor อย่างน้อย 1 ปีเข้าใจระบบ POS และการบริหารสต๊อกมี Service Mind สูงบุคลิกดี มนุษยสัมพันธ์ดี
+DESCRIPTION [EN]:
+Control of daily operations• Take care of the neatness of the store in each shift. • Check the Opening / Closing Checklist. • Control the standards of storefront service and team supervision. • Control employees in shifts Teach new employees • Evaluate basic performance of customer service • Take care of VIP customers • Solve problems on site • Check customer satisfaction, control costs • Check stock daily Control waste and use of raw materials• Report daily sales to support the store manager.• Make KPI reports.• Coordinate with the kitchen, accounting, and purchasing.• Perform duties in place of the manager when he is not present. Applicant Qualifications: At least 3 years of restaurant experience. At least 1 year of shift leader/supervisor experience. Understands POS systems and stock management. Has a high Service Mind. Good personality. Good human relations.
+
+================================================================================
+SOURCE:       jobsdb_thailand
+URL:          https://th.jobsdb.com/job/91300808
+TITLE:        HR Operations & Internal Policy (Contract)
+TITLE [EN]:   HR Operations & Internal Policy (Contract)
+COMPANY:      PTT Digital Solutions Company Limited
+COMPANY [EN]: PTT Digital Solutions Company Limited
+LOCATION:     Bangkok
+LOCATION [EN]:Bangkok
+SALARY:       ฿15,000 – ฿20,000 per month
+SALARY [EN]:  ฿15,000 – ฿20,000 per month
+DEADLINE:     
+DEADLINE [EN]:
+DESCRIPTION:
+Job Title: HR & People Operations Officer (Recruitment & Admin)Job SummaryWe are looking for a proactive HR & People Operations Officer to support end-to-end recruitment and daily people operations. This role covers manpower planning, employee communication, HR documentation and contracts, onboarding/offboarding coordination, training support, vendor administration, and basic office operations. You will work closely with internal stakeholders and external vendors to ensure smooth HR services and well-organized operations.Key ResponsibilitiesManage end-to-end recruitment processes, including sourcing, screening, interview scheduling, and hiring coordination.Support manpower planning and headcount tracking to align with business needs.Communicate HR policies and provide guidance to employees; handle employee issues professionally and appropriately.Prepare employment contracts and HR documents; ensure accuracy, completeness, and proper filing.Manage and track contract periods; coordinate with related parties for renewals, updates, and required actions.Plan and coordinate training programs to enhance employee skills and development.Oversee onboarding and offboarding processes, including employee entry/exit records and required documentation.Coordinate IT/asset-related matters such as equipment, systems, and account access for employees (joiners/movers/leavers).Conduct basic workplace audits (5S) and prepare job descriptions and operational reports when required.Support vendor coo
+DESCRIPTION [EN]:
+Job Title: HR & People Operations Officer (Recruitment & Admin)Job SummaryWe are looking for a proactive HR & People Operations Officer to support end-to-end recruitment and daily people operations. This role covers manpower planning, employee communication, HR documentation and contracts, onboarding/offboarding coordination, training support, vendor administration, and basic office operations. You will work closely with internal stakeholders and external vendors to ensure smooth HR services and well-organized operations.Key ResponsibilitiesManage end-to-end recruitment processes, including sourcing, screening, interview scheduling, and hiring coordination.Support manpower planning and headcount tracking to align with business needs.Communicate HR policies and provide guidance to employees; handle employee issues professionally and appropriately.Prepare employment contracts and HR documents; ensure accuracy, completeness, and proper filing.Manage and track contract periods; coordinate with related parties for renewals, updates, and required actions.Plan and coordinate training programs to enhance employee skills and development.Oversee onboarding and offboarding processes, including employee entry/exit records and required documentation.Coordinate IT/asset-related matters such as equipment, systems, and account access for employees (joiners/movers/leavers).Conduct basic workplace audits (5S) and prepare job descriptions and operational reports when required.Support vendor coo
+
+================================================================================
+SOURCE:       jobsdb_thailand
+URL:          https://th.jobsdb.com/job/91299955
+TITLE:        Sale
+TITLE [EN]:   Sale
+COMPANY:      wimapackaing
+COMPANY [EN]: wimapackaing
+LOCATION:     Pathum Thani (Hybrid)
+LOCATION [EN]:Pathum Thani (Hybrid)
+SALARY:       
+SALARY [EN]:  
+DEADLINE:     
+DEADLINE [EN]:
+DESCRIPTION:
+ตำแหน่ง: Saleเรากำลังมองหาสมาชิกใหม่ที่มีพรสวรรค์เพื่อเข้าร่วมทีมขายของเรา ในบริษัท wimapackaing ตำแหน่งดังกล่าวมีความสำคัญอย่างมากต่อการเติบโตและความสำเร็จของธุรกิจของเรา โดยหน้าที่หลักของคุณคือการสร้างความสัมพันธ์ที่ดีกับลูกค้า และส่งมอบผลิตภัณฑ์และบริการที่มีคุณภาพ เพื่อตอบสนองความต้องการของลูกค้าหน้าที่หลัก:ติดต่อและสร้างความสัมพันธ์ที่ดีกับลูกค้าเป้าหมายนำเสนอและจำหน่ายผลิตภัณฑ์และบริการของบริษัทให้กับลูกค้าให้คำแนะนำและข้อมูลเกี่ยวกับผลิตภัณฑ์และบริการ เพื่อตอบสนองความต้องการของลูกค้าติดตามและให้การสนับสนุนลูกค้าอย่างต่อเนื่องรวบรวมข้อมูลและข้อเสนอแนะจากลูกค้าเพื่อปรับปรุงการดำเนินงานทักษะ คุณสมบัติ และประสบการณ์:ไม่มีประสบการณ์ยินดีรับเด็กจบใหม่หรือมีประสบการณ์ด้านการขายและการบริการลูกค้าอย่างน้อย 0-1 ปีมีความสามารถในการสื่อสารและการเจรจาต่อรองที่ดีมีความสามารถในการแก้ไขปัญหาและตัดสินใจได้อย่างรวดเร็วมีทักษะการทำงานเป็นทีม และมีความคิดสร้างสรรค์มีความกระตือรือร้น ใส่ใจในการให้บริการลูกค้า และมุ่งเน้นผลลัพธ์สมัครตำแหน่งนี้ด้วยประสบการณ์และความสามารถของคุณ!
+DESCRIPTION [EN]:
+Position: SaleWe ​​are looking for talented new members to join our sales team at wimapackaing. This position is critical to the growth and success of our business. Your main duty is to build good relationships with customers. and deliver quality products and services To meet customer needs, main duties: Contact and build good relationships with target customers, present and sell the company's products and services to customers, provide advice and information about products and services. To meet customer needs, continuously follow up and provide customer support, collect information and feedback from customers to improve operations. Skills, Qualifications and Experience: No experience, new graduates are welcome or have at least 0-1 year of sales and customer service experience. Good communication and negotiation skills. Ability to solve problems and make quick decisions. Have teamwork skills. and are creative and enthusiastic Pay attention to customer service and results oriented, apply for this position with your experience and abilities!
+
+================================================================================
+SOURCE:       jobsdb_thailand
+URL:          https://th.jobsdb.com/job/91151216
+TITLE:        Brand Growth & Media Manager
+TITLE [EN]:   Brand Growth & Media Manager
+COMPANY:      Soma Health
+COMPANY [EN]: Soma Health
+LOCATION:     Bangkok
+LOCATION [EN]:Bangkok
+SALARY:       ฿55,000 – ฿80,000 per month
+SALARY [EN]:  ฿55,000 – ฿80,000 per month
+DEADLINE:     
+DEADLINE [EN]:
+DESCRIPTION:
+ABOUT SOMA HEALTHSoma Health Performance Lab is Bangkok's leading regenerative medicine and longevity clinic, specialising in stem cell therapy, performance optimisation, and precision health. We work with high-net-worth individuals, professional athletes, and medical tourists seeking transformational health outcomes. Our flagship Centura Programme delivers systemic cell therapy protocols at the forefront of regenerative science.This role sits at the intersection of brand, media, and commercial growth — responsible for ensuring Soma Health is visible, credible, and top-of-mind across every channel that feeds our referral and events pipeline.THE OPPORTUNITYWe need a commercially aware content strategist who understands that their job is not to produce content — it is to drive patient volume through brand authority. You will manage Soma Health's social presence, coordinate editorial and podcast placements, and serve as the connective tissue between our brand and the broader wellness, longevity, and luxury media ecosystem.This is a supplementary channel role, which means your output exists to feed our primary revenue channels — events, agent referrals, and medical tourism. Every piece of content you create, every media placement you coordinate, should be traceable to awareness, leads, or patient conversions.KEY RESPONSIBILITIESSocial Media Management• Own the social media content calendar across Instagram, LinkedIn, Facebook, and Line• Develop content that reflects Soma Health's
+DESCRIPTION [EN]:
+ABOUT SOMA HEALTHSoma Health Performance Lab is Bangkok's leading regenerative medicine and longevity clinic, specialising in stem cell therapy, performance optimisation, and precision health. We work with high-net-worth individuals, professional athletes, and medical tourists seeking transformational health outcomes. Our flagship Centura Programme delivers systemic cell therapy protocols at the forefront of regenerative science.This role sits at the intersection of brand, media, and commercial growth — responsible for ensuring Soma Health is visible, credible, and top-of-mind across every channel that feeds our referral and events pipeline.THE OPPORTUNITYWe need a commercially aware content strategist who understands that their job is not to produce content — it is to drive patient volume through brand authority. You will manage Soma Health's social presence, coordinate editorial and podcast placements, and serve as the connective tissue between our brand and the broader wellness, longevity, and luxury media ecosystem.This is a supplementary channel role, which means your output exists to feed our primary revenue channels — events, agent referrals, and medical tourism. Every piece of content you create, every media placement you coordinate, should be traceable to awareness, leads, or patient conversions.KEY RESPONSIBILITIESSocial Media Management• Own the social media content calendar across Instagram, LinkedIn, Facebook, and Line• Develop content that reflects Soma Health's
+
+================================================================================
+SOURCE:       jobsdb_thailand
+URL:          https://th.jobsdb.com/job/91300736
+TITLE:        Service Desk System Engineer (Outsource)
+TITLE [EN]:   Service Desk System Engineer (Outsource)
+COMPANY:      PTT Digital Solutions Company Limited
+COMPANY [EN]: PTT Digital Solutions Company Limited
+LOCATION:     Bangkok (Hybrid)
+LOCATION [EN]:Bangkok (Hybrid)
+SALARY:       ฿27,000 – ฿40,000 per month
+SALARY [EN]:  ฿27,000 – ฿40,000 per month
+DEADLINE:     
+DEADLINE [EN]:
+DESCRIPTION:
+Job ResponsibilitiesSupport Call Center and Service Desk system implementation and enhancement projects, including planning, testing, and go-live support to ensure smooth rollout and stabilization.Manage day-to-day operations of Call Center and Service Desk systems to ensure high availability, stability, and service quality.Maintain and manage Call Center operational data such as tickets/cases, call logs, and knowledge base content to ensure accuracy and usability.Investigate system incidents and service issues, perform root cause analysis, propose corrective/preventive actions, and drive resolution through closure.Coordinate with internal teams and external vendors to improve system performance continuously, including changes, upgrades, and process improvements.Prepare and update system documentation and provide operational support/troubleshooting to users (e.g., agents, supervisors) when required.Job QualificationsBachelor’s degree in IT, Computer Science, Information Systems, or a related field.2–5 years of experience in Call Center systems, Service Desk environments, or IT Operations.Good understanding of IT Service Management (ITSM) processes and ITIL concepts.Basic technical knowledge of Call Center platforms, including call handling, agent routing, and case/case management tools.Basic knowledge of data management and data utilization (e.g., working with ticket/call log/knowledge base data).Strong analytical, troubleshooting, and problem-solving skills.Good English comm
+DESCRIPTION [EN]:
+Job ResponsibilitiesSupport Call Center and Service Desk system implementation and enhancement projects, including planning, testing, and go-live support to ensure smooth rollout and stabilization.Manage day-to-day operations of Call Center and Service Desk systems to ensure high availability, stability, and service quality.Maintain and manage Call Center operational data such as tickets/cases, call logs, and knowledge base content to ensure accuracy and usability.Investigate system incidents and service issues, perform root cause analysis, propose corrective/preventive actions, and drive resolution through closure.Coordinate with internal teams and external vendors to improve system performance continuously, including changes, upgrades, and process improvements.Prepare and update system documentation and provide operational support/troubleshooting to users (e.g., agents, supervisors) when required.Job QualificationsBachelor’s degree in IT, Computer Science, Information Systems, or a related field.2–5 years of experience in Call Center systems, Service Desk environments, or IT Operations.Good understanding of IT Service Management (ITSM) processes and ITIL concepts.Basic technical knowledge of Call Center platforms, including call handling, agent routing, and case/case management tools.Basic knowledge of data management and data utilization (e.g., working with ticket/call log/knowledge base data).Strong analytical, troubleshooting, and problem-solving skills.Good English comm
+
+================================================================================
+SOURCE:       jobsdb_thailand
+URL:          https://th.jobsdb.com/job/91300709
+TITLE:        Manage Service (Add on service)
+TITLE [EN]:   Manage Service (Add on service)
+COMPANY:      Symphony Communication Public Company Limited
+COMPANY [EN]: Symphony Communication Public Company Limited
+LOCATION:     Chatuchak, Bangkok
+LOCATION [EN]:Chatuchak, Bangkok
+SALARY:       
+SALARY [EN]:  
+DEADLINE:     
+DEADLINE [EN]:
+DESCRIPTION:
+ResponsibilitiesRespond to requests for technical assistance in person, via phone, chat, or email.Diagnose and resolve hardware and software issues. Research and troubleshoot issues using available information resources.Provide consultation to users on appropriate solutions and actions.Identify and escalate issues that require urgent attention.Track, route, and document problems, requests, and resolutions. Resolve technical issues within our network infrastructure and value-added services.Prepare activity and service reports.Manage day-to-day planning and operational aspects of projects to ensure deliverables are completed on time.Work closely with the Pre-Sales Solution team to ensure smooth After-Sales Support.Design and adjust system configurations to meet customer requirements, particularly during emergency situations.Support firewall configuration changes to ensure smooth service operations.Support configuration adjustments and provide consultation for authentication systems.Support configuration changes and provide consultation for WiFi solutions.Support DNS record configuration changes and provide related technical consultationQualificationsBachelor’s degree in related field or equivalent experience1-3 years of prior IT experience, Add on service, Network, Cloud Platform, FirewallPrior experience working for a service provider is a plusGood interpersonal skill and service mindedGood problem solving and communication skillPassion, Positive and Creative to continue devel
+DESCRIPTION [EN]:
+ResponsibilitiesRespond to requests for technical assistance in person, via phone, chat, or email.Diagnose and resolve hardware and software issues. Research and troubleshoot issues using available information resources.Provide consultation to users on appropriate solutions and actions.Identify and escalate issues that require urgent attention.Track, route, and document problems, requests, and resolutions. Resolve technical issues within our network infrastructure and value-added services.Prepare activity and service reports.Manage day-to-day planning and operational aspects of projects to ensure deliverables are completed on time.Work closely with the Pre-Sales Solution team to ensure smooth After-Sales Support.Design and adjust system configurations to meet customer requirements, particularly during emergency situations.Support firewall configuration changes to ensure smooth service operations.Support configuration adjustments and provide consultation for authentication systems.Support configuration changes and provide consultation for WiFi solutions.Support DNS record configuration changes and provide related technical consultationQualificationsBachelor’s degree in related field or equivalent experience1-3 years of prior IT experience, Add on service, Network, Cloud Platform, FirewallPrior experience working for a service provider is a plusGood interpersonal skill and service mindedGood problem solving and communication skillPassion, Positive and Creative to continue devel
+
+================================================================================
+SOURCE:       jobsdb_thailand
+URL:          https://th.jobsdb.com/job/91300667
+TITLE:        Senior Mechanical Engineer
+TITLE [EN]:   Senior Mechanical Engineer
+COMPANY:      THAI TOKO ENGINEERING CO., LTD.
+COMPANY [EN]: THAI SHOP ENGINEERING CO., LTD.
+LOCATION:     Bang Na, Bangkok
+LOCATION [EN]:Bang Na, Bangkok
+SALARY:       
+SALARY [EN]:  
+DEADLINE:     
+DEADLINE [EN]:
+DESCRIPTION:
+Job detailDesign & Develop cost effectiness for tender project of HVAC, plumbling, Utility, Fire Protection, Clean roomWill be take responsibility of design, estimation and project implementation.Execution project to under project schedule, time, cost and target and ensuring that the projects are installing according with quality assurance planControlling that manpower, staff and labor meet with work quantities as expect cost, and time.Worked closely and prevent channel conflicts with staffs and project responsible Qualification RequiredBachelor’s Degree in Mechanical EngineeringAssociate Engineer Engineering licensed7 - 10 years experience in Mechanical EngineeringGood commands of English (writing, speaking, listening and reading).Good computer skills and a familiarity with Microsoft Windows / AUTOCAD / and otherGood Leadership, Management skill, Teamwork ability and Self-motivated work ethic and able to perform other Duties as assignedAble to work area as Head office, Branch Office and Site Office. (Rayong or other)Preferable Skills / ExperiencesKnowledgeable of HVAC System / Sanitary and Plumbing System / Fire Fighting SystemExperience in Site Engineer for construction industry fieldExperience in Design and estimate for HVAC system / Sanitary and Plumbing System / Fire Fighting SystemAllowanceSocial Insurance / Group Health InsuranceBonus depends on corporate profit and individual achievementUniformProvident Fund (After probation 1 year)Dental care (terms are as specified 
+DESCRIPTION [EN]:
+Job detailDesign & Develop cost effectiness for tender project of HVAC, plumbling, Utility, Fire Protection, Clean roomWill be take responsibility of design, estimation and project implementation.Execution project to under project schedule, time, cost and target and ensuring that the projects are installing according with quality assurance planControlling that manpower, staff and labor meet with work quantities as expect cost, and time.Worked closely and prevent channel conflicts with staffs and project responsible Qualification RequiredBachelor’s Degree in Mechanical EngineeringAssociate Engineer Engineering licensed7 - 10 years experience in Mechanical EngineeringGood commands of English (writing, speaking, listening and reading).Good computer skills and a familiarity with Microsoft Windows / AUTOCAD / and otherGood Leadership, Management skill, Teamwork ability and Self-motivated work ethic and able to perform other Duties as assignedAble to work area as Head office, Branch Office and Site Office. (Rayong or other)Preferable Skills / ExperiencesKnowledgeable of HVAC System / Sanitary and Plumbing System / Fire Fighting SystemExperience in Site Engineer for construction industry fieldExperience in Design and estimate for HVAC system / Sanitary and Plumbing System / Fire Fighting SystemAllowanceSocial Insurance / Group Health InsuranceBonus depends on corporate profit and individual achievementUniformProvident Fund (After probation 1 year)Dental care (terms are as specified
+
+================================================================================
+SOURCE:       jobsdb_thailand
+URL:          https://th.jobsdb.com/job/91300590
+TITLE:        แคชเชียร์
+TITLE [EN]:   cashier
+COMPANY:      BUILD & BIRD LTD., PART.
+COMPANY [EN]: BUILD & BIRD LTD., PART.
+LOCATION:     Nonthaburi
+LOCATION [EN]:Nonthaburi
+SALARY:       ฿15,000 – ฿18,000 per month
+SALARY [EN]:  ฿15,000 – ฿18,000 per month
+DEADLINE:     
+DEADLINE [EN]:
+DESCRIPTION:
+แคชเชียร์ (Cashier) - ร้าน Tell Me (ราชพฤกษ์)รายละเอียดงาน:ดูแลการรับชำระเงิน ออกใบกำกับภาษี และสรุปยอดขายประจำวันดูแลความเรียบร้อยบริเวณเคาน์เตอร์แคชเชียร์คุณสมบัติ:ปวส. ขึ้นไป (ยินดีรับนักศึกษาจบใหม่)มีความละเอียดรอบคอบ ซื่อสัตย์ และมีใจรักงานบริการวันและเวลาทำงาน:วันทำงาน: 5 วัน/สัปดาห์ (หยุด 2 วัน)เวลาทำงาน: 11:00 - 21:00 น.สวัสดิการและสิทธิประโยชน์:รายได้: เงินเดือนเริ่มต้น 14,000 + Service Chargeโบนัสตามผลประกอบการประกันสังคมวันหยุดพักร้อนประจำปี
+DESCRIPTION [EN]:
+Cashier (Cashier) - Tell Me Shop (Ratchapruek) Job details: Take care of receiving payments. Issue a tax invoice and summarize daily sales. Maintain orderliness in the cashier counter area. Qualifications: Vocational Certificate. and above (welcome new graduates) are detail oriented, honest and have a love for service. Working days and hours: Working days: 5 days/week (2 days off) Working hours: 11:00 - 21:00 Welfare and benefits: Income: Starting salary 14,000 + Service Charge Bonus based on performance Social security Annual vacation
+
+================================================================================
+SOURCE:       jobsdb_thailand
+URL:          https://th.jobsdb.com/job/91300514
+TITLE:        Procurement
+TITLE [EN]:   Procurement
+COMPANY:      HHA (THAILAND) CO., LTD.
+COMPANY [EN]: HHA (THAILAND) CO., LTD.
+LOCATION:     Ban Bueng, Chon Buri
+LOCATION [EN]:I'm Not Afraid, Chon Buri
+SALARY:       
+SALARY [EN]:  
+DEADLINE:     
+DEADLINE [EN]:
+DESCRIPTION:
+-**มีประสบการณ์เคยทำบริษัทที่เกี่ยวข้องกับเครื่องใช้ไฟฟ้าในบ้าน เช่นตู้เย็น เครื่องซักผ้า เครื่องปรับอากาศอย่างน้อย2ปี**หน้าที่ความรับผิดชอบ (Job Responsibilities)รับผิดชอบการวางแผนทรัพยากรประจำปี(รวมถึงการคำนวณกำลังการผลิตของซัพพลายเออร์ การประเมินแม่พิมพ์ การคำนวณกำลังคน และการวางแผนสำรองวัตถุดิบ)รับผิดชอบกระบวนการคำสั่งซื้อทั้งหมดได้แก่ การตรวจสอบคำสั่งซื้อ (Order Review), การออกคำสั่งซื้อ, การติดตามการส่งมอบ, การจัดการปัญหาที่เกิดขึ้น, การออกใบแจ้งหนี้ และการชำระเงินสนับสนุนงานด้านการจัดหา (Sourcing)เช่น การค้นหาซัพพลายเออร์ใหม่ การคัดเลือก/รับรองซัพพลายเออร์ การขยายแหล่งจัดหาชิ้นส่วน และการวิเคราะห์ต้นทุนประสานงานกับทีมจัดซื้อภายในประเทศเพื่อให้มั่นใจว่าวัตถุดิบ CKD ถูกส่งมอบตามแผน รวมถึงสนับสนุนงานด้านโลจิสติกส์ท่าเรือ และพิธีการศุลกากร (Customs Clearance)รับผิดชอบการบริหารและประเมินผลซัพพลายเออร์(Supplier Management & Evaluation)คุณสมบัติ (Qualifications)อายุระหว่าง 25–40 ปีวุฒิการศึกษาระดับปริญญาตรีขึ้นไปสาขาวิศวกรรม หรือสายวิทยาศาสตร์/เทคนิค จะพิจารณาเป็นพิเศษสามารถใช้ภาษาอังกฤษ และภาษาไทยได้ประสบการณ์ทำงาน:มีประสบการณ์ด้านงานจัดซื้อ (Procurement Execution) และมีประสบการณ์บริหารอย่างน้อย 2 ปีมีประสบการณ์ในอุตสาหกรรมเครื่องใช้ไฟฟ้า (White Goods เช่น แอร์ ตู้เย็น เครื่องซักผ้า)หากมีประสบการณ์ในระบบการผลิต (Manufacturing System) จะพิจารณาเป็นพิเศษใช้งานโปรแกรม Microsoft Office ได้ดี (โดยเฉพาะ Excel, PowerPoint)สามารถทำงานแบบยืดหยุ่น (รวมถึงการทำงานล่วงเวลาได้)หากมีประสบการณ์ทำงานต่างประเทศ จะพิจารณาเป็นพิเศษบุคลิกภาพ:มีความเป็นคนเปิดเผย (Extrovert)มองโลกในแง่ดีมีความสาม
+DESCRIPTION [EN]:
+-**Experience working in a company related to home appliances such as refrigerators and washing machines. Air conditioners for at least 2 years**Responsibilities (Job Responsibilities) Responsible for annual resource planning (including calculation of supplier production capacity Mold evaluation manpower calculation and raw material reserve planning) responsible for all order processes including Order Review, Order Issuance, Delivery Tracking, Problem Management, Invoicing and payment to support procurement work (Sourcing) such as Finding new suppliers Selection/certification of suppliers Expanding the supply of parts and cost analysis, coordinating with the domestic procurement team to ensure that CKD raw materials are delivered as planned. Including supporting logistics work at the port. and customs clearance (Customs Clearance) responsible for supplier management and evaluation (Supplier Management & Evaluation) Qualifications (Qualifications) Age between 25–40 years, Bachelor's degree or higher in Engineering. or science/technical stream Special consideration will be given to being able to speak English. and Thai language. Work experience: Experience in purchasing (Procurement Execution) and at least 2 years of management experience. Experience in the electrical appliance industry (White Goods such as air conditioners, refrigerators, washing machines). If you have experience in production systems (Manufacturing System) will be given special consideration. Good use of Microsoft Office programs (especially Excel, PowerPoint). Able to work flexibly. (Including overtime work) if you have experience working abroad. Special consideration will be given to personality: being an open person. (Extrovert) Optimizes the world with three things.
+
+================================================================================
+SOURCE:       jobsdb_thailand
+URL:          https://th.jobsdb.com/job/91300483
+TITLE:        Senior New Model Engineer
+TITLE [EN]:   Senior New Model Engineer
+COMPANY:      Advanced Composite System Ltd.
+COMPANY [EN]: Advanced Composite System Ltd.
+LOCATION:     Klaeng, Rayong
+LOCATION [EN]:Klaeng, Rayong
+SALARY:       
+SALARY [EN]:  
+DEADLINE:     
+DEADLINE [EN]:
+DESCRIPTION:
+PROFILE & QUALIFICATIONS• Education: Bachelor’s degree in Mechanical Engineering or a related field.• Experience: 3–5+ years of experience in New Model development, Product Development, or Industrialization. (Experience in the automotive or motorcycle helmet industry is a significant advantage).Technical Skills:• Proficient in CATIA (3D Modeling & Drawing Interpretation).• Deep understanding of Injection Molding, Composite Materials, Painting, and Assembly processes.• Knowledge of APQP / PPAP methodologies is highly preferred.Soft Skills:• Excellent English communication skills (required for collaborating with international R&D teams and global suppliers).• Strong problem-solving skills with a high sense of Ownership and Accountability.• Ability to perform effectively under pressure and within tight constraints. JOB DESCRIPTION4.1 Duties & ResponsibilitiesDesign Transfer & Engineering (R&D Interface)• Act as the primary technical interface with the SHARK R&D team starting from the Conceptual Design phase to translate design intent into manufacturable products.• Lead Feasibility Studies to identify production constraints and cost-reduction opportunities during the early design stages.• Perform comprehensive design reviews using DFM (Design for Manufacturing) and DFA (Design for Assembly) principles.• Utilize CATIA for in-depth analysis and validation of 3D models (Draft analysis, Thickness, Undercut) and technical engineering drawings.1. End-to-End Project Management (NPI)• Le
+DESCRIPTION [EN]:
+PROFILE & QUALIFICATIONS• Education: Bachelor’s degree in Mechanical Engineering or a related field.• Experience: 3–5+ years of experience in New Model development, Product Development, or Industrialization. (Experience in the automotive or motorcycle helmet industry is a significant advantage).Technical Skills:• Proficient in CATIA (3D Modeling & Drawing Interpretation).• Deep understanding of Injection Molding, Composite Materials, Painting, and Assembly processes.• Knowledge of APQP / PPAP methodologies is highly preferred.Soft Skills:• Excellent English communication skills (required for collaborating with international R&D teams and global suppliers).• Strong problem-solving skills with a high sense of Ownership and Accountability.• Ability to perform effectively under pressure and within tight constraints. JOB DESCRIPTION4.1 Duties & ResponsibilitiesDesign Transfer & Engineering (R&D Interface)• Act as the primary technical interface with the SHARK R&D team starting from the Conceptual Design phase to translate design intent into manufacturable products.• Lead Feasibility Studies to identify production constraints and cost-reduction opportunities during the early design stages.• Perform comprehensive design reviews using DFM (Design for Manufacturing) and DFA (Design for Assembly) principles.• Utilize CATIA for in-depth analysis and validation of 3D models (Draft analysis, Thickness, Undercut) and technical engineering drawings.1. End-to-End Project Management (NPI)• Le
+
+================================================================================
+SOURCE:       jobsdb_thailand
+URL:          https://th.jobsdb.com/job/91300347
+TITLE:        พนักงานผลิต (Stamping)
+TITLE [EN]:   Production staff (Stamping)
+COMPANY:      Bangkok Metal Works Co.,Ltd.
+COMPANY [EN]: Bangkok Metal Works Co.,Ltd.
+LOCATION:     Bang Phli, Samut Prakan
+LOCATION [EN]:Bang Phli, Samut Prakan
+SALARY:       
+SALARY [EN]:  
+DEADLINE:     
+DEADLINE [EN]:
+DESCRIPTION:
+ควบคุมการผลิตชิ้นส่วนผ่านเครื่องปั๊มโลหะ (Stamping) ให้ได้จำนวนตามเป้าหมายตรวจสอบงานเพื่อให้ชิ้นงานได้ตามมาตรฐาน QCดูแลและจัดระเบียบพื้นที่ทำงาน (5ส) ให้สะอาด ปลอดภัย และพร้อมใช้งานอยู่เสมอสนับสนุนทีมงานในภารกิจต่างๆ ที่ได้รับมอบหมายคุณสมบัติที่เรามองหา:มีความละเอียดรอบคอบ และให้ความสำคัญกับเรื่องความปลอดภัยในการทำงานมุ่งมั่นที่จะส่งมอบงานที่ดีที่สุดให้กับลูกค้ามีทัศนคติที่ดี พร้อมทำงานร่วมกับผู้อื่นเป็นทีม
+DESCRIPTION [EN]:
+Control the production of parts through a metal stamping machine (Stamping) to reach the target number and inspect the work so that the pieces meet standards. QC takes care of and organizes the work area (5S) to keep it clean, safe and always ready to use. Supports the team in various missions. Assigned Qualities We Look For: Attention to detail. And pay attention to safety in work, strive to deliver the best work to customers with a good attitude. Ready to work with others as a team
+
+================================================================================
+SOURCE:       jobsdb_thailand
+URL:          https://th.jobsdb.com/job/91300253
+TITLE:        Assistant HR Manager
+TITLE [EN]:   Assistant HR Manager
+COMPANY:      INTERNATIONAL SCHOOL EASTERN SEABOARD CO., LTD.
+COMPANY [EN]: INTERNATIONAL SCHOOL EASTERN SEABOARD CO., LTD.
+LOCATION:     Si Racha, Chon Buri
+LOCATION [EN]:Si Racha, Chon Buri
+SALARY:       
+SALARY [EN]:  
+DEADLINE:     
+DEADLINE [EN]:
+DESCRIPTION:
+Roles and Responsibilities1. Compensation, Benefits&HR BudgetAdminister employee benefits programs, including Provident Fund registration, contributions, reporting, and coordination with external providers.Manage the full payroll cycle, including salary calculations, payroll processing, statutory deductions, and submissions (PND.1, Social Security, Student Loan repayments) through to payment.Ensure payroll accuracy, confidentiality, and compliance with applicable labor and tax regulations.Prepare, monitor, and control the HR budget, including salary costs, benefits, and HR- related operational expenses.Assist in reviewing and administering the school’s compensation structure and benefits framework to ensure internal equity and market competitiveness.Stay informed of changes to tax laws, social security requirements, and labor regulations to ensure ongoing compliance.2. Recruitment & StaffingManage the full-cycle recruitment process for non-academic staff, from manpower planning to hiring.Draft and publish job advertisements, screen applications, coordinate interviews, and support selection decisions.Prepare employment contracts, offer letters, and onboarding documentation in line with labor laws and internal policies.Coordinate orientation and onboarding programs for new employees, including probation tracking and confirmation.Support onboarding arrangements for expatriate staff, including flight bookings, hotel accommodations, airport pick-up, and initial settling-in logisti
+DESCRIPTION [EN]:
+Roles and Responsibilities1. Compensation, Benefits&HR BudgetAdminister employee benefits programs, including Provident Fund registration, contributions, reporting, and coordination with external providers.Manage the full payroll cycle, including salary calculations, payroll processing, statutory deductions, and submissions (PND.1, Social Security, Student Loan repayments) through to payment.Ensure payroll accuracy, confidentiality, and compliance with applicable labor and tax regulations.Prepare, monitor, and control the HR budget, including salary costs, benefits, and HR- related operational expenses.Assist in reviewing and administering the school’s compensation structure and benefits framework to ensure internal equity and market competitiveness.Stay informed of changes to tax laws, social security requirements, and labor regulations to ensure ongoing compliance.2. Recruitment & StaffingManage the full-cycle recruitment process for non-academic staff, from manpower planning to hiring.Draft and publish job advertisements, screen applications, coordinate interviews, and support selection decisions.Prepare employment contracts, offer letters, and onboarding documentation in line with labor laws and internal policies.Coordinate orientation and onboarding programs for new employees, including probation tracking and confirmation.Support onboarding arrangements for expatriate staff, including flight bookings, hotel accommodations, airport pick-up, and initial settling-in logisti
+
+================================================================================
+SOURCE:       jobsdb_thailand
+URL:          https://th.jobsdb.com/job/91300215
+TITLE:        Designer (ชุดกีฬา)
+TITLE [EN]:   Designer (sportswear)
+COMPANY:      PREMIER SPORTS CONSULTING CO.,LTD
+COMPANY [EN]: PREMIER SPORTS CONSULTING CO.,LTD
+LOCATION:     Bang Phli, Samut Prakan
+LOCATION [EN]:Bang Phli, Samut Prakan
+SALARY:       ฿20,000 – ฿30,000 per month
+SALARY [EN]:  ฿20,000 – ฿30,000 per month
+DEADLINE:     
+DEADLINE [EN]:
+DESCRIPTION:
+รายละเอียดงานรับผิดชอบการออกแบบกราฟิกสำหรับชุดกีฬา เช่น เสื้อฟุตบอล เสื้อทีม ชุดแข่งขัน และสินค้าที่เกี่ยวข้องจัดวางองค์ประกอบ เช่น โลโก้ สี ฟอนต์ และสปอนเซอร์บนชุดกีฬาสร้างแบบจำลองสินค้าเพื่อนำเสนอปรับแก้งานตามข้อเสนอแนะจากลูกค้าหรือทีมผลิตทำไฟล์ Artwork ให้พร้อมสำหรับการผลิตคุณสมบัติมีทักษะด้านการออกแบบกราฟิกที่ดีสามารถใช้โปรแกรมออกแบบได้ เช่น Adobe Photoshop และ Adobe Illustratorมีความเข้าใจในการออกแบบลวดลายสำหรับเสื้อกีฬามีความรับผิดชอบต่องาน สามารถทำงานตามกำหนดเวลา และปรับแก้งานตามข้อเสนอแนะได้สามารถทำงานร่วมกับผู้อื่นได้ดีสวัสดิการค่าอาหารกลางวันเครื่องดื่มและขนมฟรีวันหยุดตามนโยบายบริษัททำงานวันจันทร์ – เสาร์ เวลา 08.30 - 17.30 น. (มีแผนปรับเป็นทำงาน 5 วัน/สัปดาห์ในอนาคต)สถานที่ปฏิบัติงาน: กิ่งแก้วซอย 64 (ติดถนน) ตำบลราชาเทวะ อำเภอบางพลี จังหวัดสมุทรปราการhttps://maps.app.goo.gl/c2cgwTaXomAu4JEv7ส่ง Resume หรือประวัติการทำงาน พร้อมผลงานด้านการออกแบบที่Jobsdb หรือ Email : hr.pscon@gmail.com
+DESCRIPTION [EN]:
+Job details: Responsible for designing graphics for sportswear such as football shirts, team shirts, competition uniforms, and related products. Laying out elements such as logos, colors, fonts, and sponsors on sportswear. Creating product models for presentation. Adjusting work according to suggestions from customers or the production team. Making artwork files ready for production. Qualifications: Have good graphic design skills. Able to use design programs such as Adobe Photoshop and Adobe Illustrator. Understanding of pattern design for sports shirts. Responsible for the work. Able to work according to schedule and can adjust work according to suggestions. Able to work well with others. Benefits: free lunch, drinks and snacks on holidays according to company policy. Work Monday - Saturday from 8:30 a.m. - 5:30 p.m. (There are plans to adjust to working 5 days/week in the future.) Work location: King Kaew Soi 64 (next to the road), Racha Thewa Subdistrict, Bang Phli District Samut Prakan Provincehttps://maps.app.goo.gl/c2cgwTaXomAu4JEv7Send Resume or work history With design work at Jobsdb or Email: hr.pscon@gmail.com
+
+================================================================================
+SOURCE:       jobsdb_thailand
+URL:          https://th.jobsdb.com/job/91300163
+TITLE:        Performance Marketing
+TITLE [EN]:   Performance Marketing
+COMPANY:      IMAX POWERTOOL CO., LTD.
+COMPANY [EN]: IMAX POWERTOOL CO., LTD.
+LOCATION:     Bangkok
+LOCATION [EN]:Bangkok
+SALARY:       ฿85,000 – ฿100,000 per month
+SALARY [EN]:  ฿85,000 – ฿100,000 per month
+DEADLINE:     
+DEADLINE [EN]:
+DESCRIPTION:
+Responsibility :Develop Performance marketing strategies on Shopee Ads and Lazada Sponsored Solutions. Recommend budget distribution across media types (biddable & non-biddable), formats, and SKUs based on data and business objectives.Track, analyze, and report on key performance metrics including Impressions, CPM, CPC, CTR%, CR%, ROAS, and % Ads to Net Revenue across all onsite (search, display, product ads). Identify underperforming campaigns and implement swift optimization actions by daily monitor on spending , bidding and ROAS.Build and maintain performance dashboards with accurate and consistent data from Shopee, Lazada seller centers, and brand portals. Deliver weekly and monthly performance reports with actionable insights.Provide specific, data-driven recommendations to dealer partners on bidding adjustments, SKU prioritization, and ad content improvements to enhance campaign efficiency.Design and execute A/B test frameworks to continuously improve ad performance and validate optimization hypotheses.Own and deliver against key metrics: ROAS, % Ads to Net Revenue and Incremental sale from MediaQualification :5+ years of experience in Performance Marketing, preferably from a Digital Marketing Agency, E-commerce Enabler, or Marketplace Advertising background.Hands-on experience with Shopee Ads Manager and Lazada Sponsored Solutions (or similar marketplace advertising platforms).Strong proficiency in managing and optimizing biddable media campaigns. Understanding of bid 
+DESCRIPTION [EN]:
+Responsibility :Develop Performance marketing strategies on Shopee Ads and Lazada Sponsored Solutions. Recommend budget distribution across media types (biddable & non-biddable), formats, and SKUs based on data and business objectives.Track, analyze, and report on key performance metrics including Impressions, CPM, CPC, CTR%, CR%, ROAS, and % Ads to Net Revenue across all onsite (search, display, product ads). Identify underperforming campaigns and implement swift optimization actions by daily monitor on spending , bidding and ROAS.Build and maintain performance dashboards with accurate and consistent data from Shopee, Lazada seller centers, and brand portals. Deliver weekly and monthly performance reports with actionable insights.Provide specific, data-driven recommendations to dealer partners on bidding adjustments, SKU prioritization, and ad content improvements to enhance campaign efficiency.Design and execute A/B test frameworks to continuously improve ad performance and validate optimization hypotheses.Own and deliver against key metrics: ROAS, % Ads to Net Revenue and Incremental sale from MediaQualification :5+ years of experience in Performance Marketing, preferably from a Digital Marketing Agency, E-commerce Enabler, or Marketplace Advertising background.Hands-on experience with Shopee Ads Manager and Lazada Sponsored Solutions (or similar marketplace advertising platforms).Strong proficiency in managing and optimizing biddable media campaigns. Understanding of bid
+

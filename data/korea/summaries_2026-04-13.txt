@@ -1,0 +1,187 @@
+Job Summaries — 2026-04-13
+Total: 20
+
+================================================================================
+SOURCE: wanted
+URL:    https://www.wanted.co.kr/wd/354783
+
+*Job Title:* AI Tech Lead
+*Company:* Atomous (Mind Cafe)
+*Salary:* ₩500,000
+*Location:* Gangnam-gu, Seoul
+*About:* Leads AI initiatives to improve mental healthcare services using data and clinical expertise. Supports over 700 companies via EAP and operates online/offline integrated mental healthcare.
+
+================================================================================
+SOURCE: wanted
+URL:    https://www.wanted.co.kr/wd/354782
+
+*Job Title:* EAP Operations PM
+*Company:* Atomous (Mind Cafe)
+*Salary:* ₩500,000
+*Location:* Gangnam-gu, Seoul
+*About:* Leads Employee Assistance Program (EAP) operations, supporting mental health services for executives and employees of over 700 companies using AI and clinical expertise.
+
+================================================================================
+SOURCE: wanted
+URL:    https://www.wanted.co.kr/wd/354781
+
+*Job Title:* B2B Business Operation Manager (new to less than 5 years) *Company:* Atomous (Mind Cafe) *Salary:* ₩500,000 in cash for each applicant and recommender *Location:* 4th floor, Daehwa Building, 20 Yeongdong-daero 96-gil, Gangnam-gu *About:* Atomous leverages AI and clinical expertise to improve mental healthcare services, backed by ₩37B in Series B funding. The company operates Mind Cafe, Korea’s top mental healthcare platform, serving 4M users and 700+ corporate clients via EAP programs.
+
+================================================================================
+SOURCE: wanted
+URL:    https://www.wanted.co.kr/wd/354775
+
+*Job Title:* Cloud Infrastructure Engineer
+*Company:* Hackle
+*Salary:* Not specified
+*Location:* 5th floor, 241 Gangnam-daero, Seocho-gu, Seoul
+*About:* Builds and maintains scalable cloud infrastructure for a unified data analytics and marketing platform serving 200+ clients including SKT, LG U+, and Hyundai Card.
+
+================================================================================
+SOURCE: wanted
+URL:    https://www.wanted.co.kr/wd/354780
+
+*Job Title:* B2B business operation manager (5 years or more) *Company:* Atomous (Mind Cafe) *Salary:* ₩500,000 *Location:* Daehwa Building, Gangnam-gu, Seoul *About:* Operates B2B mental healthcare services like EAP for 700+ companies, driving growth through AI and data-driven improvements.
+
+================================================================================
+SOURCE: wanted
+URL:    https://www.wanted.co.kr/wd/354777
+
+*Job Title:* bid sales
+*Company:* Atomous (Mind Cafe)
+*Salary:* ₩500,000 per applicant and recommender
+*Location:* 4th floor, Daehwa Building, 20 Yeongdong-daero 96-gil, Gangnam-gu
+*About:* Atomus provides AI-driven mental healthcare services, including counseling and testing, via its Mind Cafe platform and EAP for over 700 companies. The company leverages data and clinical expertise to improve services and has raised ₩37B in Series B funding.
+
+================================================================================
+SOURCE: wanted
+URL:    https://www.wanted.co.kr/wd/354744
+
+*Job Title:* [Solution] Senior AI Engineer
+*Company:* Nota
+*Salary:* Not specified
+*Location:* 16th floor, Parnas Tower, 521 Teheran-ro, Gangnam-gu, Seoul Nota
+*About:* Designs and advances AI solutions for industrial domains using Nota’s AI model optimization platform (NetsPresso) and on-device AI solutions like NVA and ITS.
+
+================================================================================
+SOURCE: wanted
+URL:    https://www.wanted.co.kr/wd/354776
+
+*Job Title:* full stack marketer
+*Company:* Atomous (Mind Cafe)
+*Salary:* ₩500,000
+*Location:* Gangnam-gu, Seoul
+*About:* Atomus leverages AI and clinical expertise to lower mental health service barriers, backed by ₩37B in investments and serving over 4M users via Mind Cafe.
+
+================================================================================
+SOURCE: wanted
+URL:    https://www.wanted.co.kr/wd/354461
+
+*Job Title:* Commerce operation/customer management manager
+*Company:* Hangyeol Agricultural Corporation
+*Salary:* ₩500,000
+*Location:* 1-10 Wolam-gil, Dolsan-eup, Yeosu-si, Jeollanam-do, Hangyeol
+*About:* Manages e-commerce operations including mall, smart store, and Kakao channel, handling orders, customer service, reviews, and channel management to deliver brand experience.
+
+================================================================================
+SOURCE: wanted
+URL:    https://www.wanted.co.kr/wd/352164
+
+*Job Title:* Robotics Control Software Engineer (professional research personnel available)
+*Company:* Robros
+*Salary:* ₩500,000
+*Location:* Seoul
+*About:* Robros specializes in humanoid robot technology, handling end-to-end development from mechanics to AI. Seeking experts to design control systems and bridge simulation with real hardware for stable robot operation.
+
+================================================================================
+SOURCE: wanted
+URL:    https://www.wanted.co.kr/wd/354774
+
+*Job Title:* Business Proposal Manager
+*Company:* Atomous (Mind Cafe)
+*Salary:* ₩100,000
+*Location:* 4th floor, Daehwa Building, 20 Yeongdong-daero 96-gil, Gangnam-gu
+*About:* Manages business proposals for Atomous, a mental healthcare platform leveraging AI and clinical expertise to expand mental health services in Korea.
+
+================================================================================
+SOURCE: wanted
+URL:    https://www.wanted.co.kr/wd/354773
+
+*Job Title:* Product Owner
+*Company:* Atomous (Mind Cafe)
+*Salary:* ₩500,000
+*Location:* Gangnam-gu, Seoul
+*About:* Leads mental healthcare platform product development using AI and data to improve accessibility and services for individuals and corporate clients.
+
+================================================================================
+SOURCE: wanted
+URL:    https://www.wanted.co.kr/wd/354772
+
+*Job Title:* commerce marketer
+*Company:* Atomous (Mind Cafe)
+*Salary:* ₩500,000
+*Location:* Gangnam-gu, Seoul
+*About:* Atomus leverages AI and clinical expertise to provide accessible mental healthcare services, including counseling and testing, via the Mind Cafe platform. The company supports over 700 companies through EAP programs and has raised ₩37 billion in Series B funding.
+
+================================================================================
+SOURCE: wanted
+URL:    https://www.wanted.co.kr/wd/351618
+
+*Job Title:* AMD/Operations Manager
+*Company:* Smart Mind AI
+*Salary:* Not specified
+*Location:* 1230 Gaepo-dong, Gangnam-gu, Seoul, South Korea
+*About:* Oversees B2B wholesale business operations on Shopify, including sourcing, inventory management, logistics coordination, and customer service for U.S. market expansion.
+
+================================================================================
+SOURCE: wanted
+URL:    https://www.wanted.co.kr/wd/352196
+
+*Job Title:* Robotics System Software Engineer (professional research personnel available)
+*Company:* Robros
+*Salary:* ₩500,000
+*Location:* #602, 25 Yeonmujang 5ga-gil, Seongdong-gu, Seoul
+*About:* Maintains and stabilizes robot control software, develops GUI for operations and customers, and ensures long-term operational stability of humanoid robots.
+
+================================================================================
+SOURCE: wanted
+URL:    https://www.wanted.co.kr/wd/354771
+
+*Job Title:* CFO
+*Company:* Atomous (Mind Cafe)
+*Salary:* ₩500,000
+*Location:* Gangnam-gu, Seoul
+*About:* Leading mental healthcare platform using AI and data to improve psychological services. Backed by ₩37B+ investment and serving 4M+ users with EAP programs for 700+ companies.
+
+================================================================================
+SOURCE: wanted
+URL:    https://www.wanted.co.kr/wd/354770
+
+*Job Title:* Product Designer (3+ years) *Company:* Atomous (Mind Cafe) *Salary:* ₩500,000 (cash per applicant/recommender) *Location:* 4th floor, Daehwa Building, 20 Yeongdong-daero 96-gil, Gangnam-gu *About:* Designs mental healthcare platform interfaces and features using AI-driven data and clinical insights to improve accessibility and service quality.
+
+================================================================================
+SOURCE: wanted
+URL:    https://www.wanted.co.kr/wd/354766
+
+*Job Title:* B2C Sales Manager (less than 5 years) *Company:* Ringle English Education Service *Salary:* ₩500,000 *Location:* Gangnam-gu, Seoul *About:* Manages B2C sales, lead generation, and customer experience for an English education platform, contributing to product development and growth strategies.
+
+================================================================================
+SOURCE: wanted
+URL:    https://www.wanted.co.kr/wd/354769
+
+*Job Title:* PO-AI Agent
+*Company:* Atomous (Mind Cafe)
+*Salary:* ₩500,000 one-time per applicant and recommender
+*Location:* Gangnam-gu, Seoul
+*About:* Builds AI-driven mental health products using clinical data to improve accessibility and service quality for Atomus’s platform serving 4M+ users.
+
+================================================================================
+SOURCE: wanted
+URL:    https://www.wanted.co.kr/wd/354767
+
+*Job Title:* operations lead
+*Company:* Atomous (Mind Cafe)
+*Salary:* ₩500,000
+*Location:* Gangnam-gu, Seoul
+*About:* Leads operations for Korea’s top mental healthcare platform, integrating AI and clinical expertise to expand services and support 4M+ users and 700+ companies via EAP programs.
+

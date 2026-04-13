@@ -1,0 +1,22 @@
+services:
+  - type: web
+    name: jobagent-bot
+    runtime: python
+    # uv is not pre-installed on Render — bootstrap it first
+    buildCommand: pip install uv && uv sync --no-dev
+    startCommand: uv run python -m bot.main
+    # Render free tier: 512MB RAM, shared CPU
+    # Playwright/Chromium is NOT installed here — keep pipeline disabled on this server
+    # Run `uv run run_pipeline.py --force` from your local machine to refresh job data
+    envVars:
+      - key: MISTRAL_MODEL
+        value: mistral-small-latest
+      - key: PIPELINE_INTERVAL_DAYS
+        value: "9999"          # disables in-process pipeline (no Chromium on Render)
+      # Set these in the Render dashboard under Environment → Secret Files / Env Vars:
+      - key: BOT_TOKEN
+        sync: false
+      - key: MISTRAL_API_KEY
+        sync: false
+      - key: MONGODB_URI
+        sync: false
