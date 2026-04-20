@@ -1,0 +1,739 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>JobAgent — Architecture</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=DM+Sans:ital,wght@0,300;0,400;0,600;1,400&display=swap');
+
+  :root {
+    --bg:      #09090f;
+    --surface: #10101a;
+    --border:  #1c1c2e;
+    --p1:      #7c6af7;
+    --p2:      #f76a8a;
+    --p3:      #6af7c8;
+    --p4:      #f7c46a;
+    --p5:      #a8d8f0;
+    --text:    #ddddf5;
+    --muted:   #5a5a7a;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'DM Sans', sans-serif;
+    min-height: 100vh;
+    padding: 48px 40px 80px;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+
+  /* ── HEADER ── */
+  header {
+    display: flex;
+    align-items: baseline;
+    gap: 16px;
+    margin-bottom: 56px;
+  }
+  header h1 {
+    font-family: 'Space Mono', monospace;
+    font-size: 18px;
+    color: var(--p1);
+    letter-spacing: 0.04em;
+  }
+  header p {
+    font-size: 13px;
+    color: var(--muted);
+    font-style: italic;
+  }
+
+  /* ── SECTION LABELS ── */
+  .section-label {
+    font-family: 'Space Mono', monospace;
+    font-size: 9px;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--muted);
+    margin-bottom: 14px;
+  }
+
+  /* ── BOXES ── */
+  .box {
+    border-radius: 10px;
+    border: 1px solid var(--border);
+    background: var(--surface);
+    padding: 16px 18px;
+  }
+
+  .box-title {
+    font-family: 'Space Mono', monospace;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    margin-bottom: 7px;
+  }
+
+  .box-body {
+    font-size: 12.5px;
+    color: var(--muted);
+    line-height: 1.65;
+  }
+
+  .tags { margin-top: 10px; display: flex; flex-wrap: wrap; gap: 5px; }
+  .tag {
+    font-family: 'Space Mono', monospace;
+    font-size: 10px;
+    padding: 2px 8px;
+    border-radius: 4px;
+  }
+
+  .box.p1 { border-color: var(--p1); }
+  .box.p1 .box-title { color: var(--p1); }
+  .box.p1 .tag { background: rgba(124,106,247,.15); color: var(--p1); }
+
+  .box.p2 { border-color: var(--p2); }
+  .box.p2 .box-title { color: var(--p2); }
+  .box.p2 .tag { background: rgba(247,106,138,.15); color: var(--p2); }
+
+  .box.p3 { border-color: var(--p3); }
+  .box.p3 .box-title { color: var(--p3); }
+  .box.p3 .tag { background: rgba(106,247,200,.15); color: var(--p3); }
+
+  .box.p4 { border-color: var(--p4); }
+  .box.p4 .box-title { color: var(--p4); }
+  .box.p4 .tag { background: rgba(247,196,106,.15); color: var(--p4); }
+
+  .box.p5 { border-color: var(--p5); }
+  .box.p5 .box-title { color: var(--p5); }
+  .box.p5 .tag { background: rgba(168,216,240,.15); color: var(--p5); }
+
+  /* ── PIPELINE ROW ── */
+  .pipeline {
+    display: flex;
+    align-items: flex-start;
+    gap: 0;
+    margin-bottom: 48px;
+  }
+
+  .pipeline .box { flex: 1; }
+
+  .pipe-arrow {
+    flex: 0 0 56px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 28px;
+    gap: 4px;
+  }
+
+  .pipe-arrow svg { color: var(--muted); }
+  .pipe-arrow span {
+    font-family: 'Space Mono', monospace;
+    font-size: 9px;
+    color: var(--muted);
+    letter-spacing: .04em;
+    text-align: center;
+    white-space: nowrap;
+  }
+
+  /* ── AGENT PANEL ── */
+  .agent-panel {
+    border: 1px solid var(--p1);
+    border-radius: 14px;
+    background: rgba(124,106,247,.04);
+    padding: 28px 24px 24px;
+    position: relative;
+    margin-bottom: 48px;
+  }
+
+  .agent-panel-label {
+    position: absolute;
+    top: -11px;
+    left: 18px;
+    background: var(--bg);
+    padding: 0 10px;
+    font-family: 'Space Mono', monospace;
+    font-size: 9px;
+    letter-spacing: .2em;
+    text-transform: uppercase;
+    color: var(--p1);
+  }
+
+  .agent-row {
+    display: flex;
+    align-items: flex-start;
+    gap: 0;
+    margin-bottom: 24px;
+  }
+
+  .agent-row .box { flex: 1; }
+
+  .bi-arrow {
+    flex: 0 0 56px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 28px;
+    gap: 3px;
+  }
+
+  .bi-arrow span {
+    font-family: 'Space Mono', monospace;
+    font-size: 9px;
+    color: var(--muted);
+    letter-spacing: .04em;
+  }
+
+  /* ── STORAGE GRID ── */
+  .storage-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+  }
+
+  /* ── 3-COL GRID ── */
+  .three-col {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 16px;
+    margin-bottom: 48px;
+  }
+
+  .two-col {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+    margin-bottom: 48px;
+  }
+
+  /* ── DOWN ARROW ── */
+  .down-arrow {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 16px;
+    gap: 2px;
+  }
+  .down-arrow span {
+    font-family: 'Space Mono', monospace;
+    font-size: 9px;
+    color: var(--muted);
+    letter-spacing: .05em;
+  }
+
+  /* ── PIPELINE PANEL ── */
+  .pipeline-panel {
+    border: 1px solid var(--p2);
+    border-radius: 14px;
+    background: rgba(247,106,138,.03);
+    padding: 28px 24px 24px;
+    position: relative;
+    margin-bottom: 48px;
+  }
+
+  .pipeline-panel-label {
+    position: absolute;
+    top: -11px;
+    left: 18px;
+    background: var(--bg);
+    padding: 0 10px;
+    font-family: 'Space Mono', monospace;
+    font-size: 9px;
+    letter-spacing: .2em;
+    text-transform: uppercase;
+    color: var(--p2);
+  }
+
+  /* ── LEGEND ── */
+  .legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 8px;
+  }
+  .legend-item {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    font-size: 12px;
+    color: var(--muted);
+  }
+  .ldot {
+    width: 9px; height: 9px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+
+  code {
+    font-family: 'Space Mono', monospace;
+    font-size: 10.5px;
+    color: inherit;
+    opacity: .85;
+  }
+
+  hr { border: none; border-top: 1px solid var(--border); margin: 40px 0; }
+
+  /* ── ANIMATIONS ── */
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(14px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+  .animate { animation: fadeUp .55s ease both; }
+  .d1 { animation-delay: .05s; }
+  .d2 { animation-delay: .15s; }
+  .d3 { animation-delay: .25s; }
+  .d4 { animation-delay: .35s; }
+  .d5 { animation-delay: .45s; }
+  .d6 { animation-delay: .55s; }
+  .d7 { animation-delay: .65s; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>JobAgent</h1>
+  <p>system architecture &amp; data flow</p>
+</header>
+
+<!-- ═══════════════════════════════════════
+     SECTION 1 — OFFLINE DATA PIPELINE
+════════════════════════════════════════ -->
+<div class="section-label">01 &nbsp;/&nbsp; data pipeline &nbsp;(cli or background scheduler)</div>
+
+<div class="pipeline">
+
+  <!-- SCRAPERS -->
+  <div class="box p1 animate d1">
+    <div class="box-title">SCRAPERS</div>
+    <div class="box-body">
+      Playwright + BeautifulSoup<br>
+      Rikunabi (Japan) · Wanted (Korea) · JobsDB (Thailand)<br><br>
+      Google Translate — every field (title, company, location,<br>
+      salary, deadline, description) translated inline at scrape time.<br><br>
+      <code>uv run run_scraper.py --region japan</code>
+    </div>
+    <div class="tags">
+      <span class="tag">scrapers/japan/rikunabi.py</span>
+      <span class="tag">scrapers/korea/wanted.py</span>
+      <span class="tag">scrapers/thailand/jobsdb.py</span>
+    </div>
+  </div>
+
+  <!-- ARROW -->
+  <div class="pipe-arrow animate d2">
+    <svg width="24" height="18" viewBox="0 0 24 18" fill="none">
+      <line x1="0" y1="9" x2="20" y2="9" stroke="#3a3a5c" stroke-width="1.5"/>
+      <polyline points="14,3 20,9 14,15" stroke="#3a3a5c" stroke-width="1.5" fill="none"/>
+    </svg>
+    <span>JobListing</span>
+    <span>objects</span>
+  </div>
+
+  <!-- SUMMARIZER -->
+  <div class="box p2 animate d2">
+    <div class="box-title">SUMMARIZER</div>
+    <div class="box-body">
+      Mistral AI API — one call per listing<br>
+      Produces a 5-field structured English summary:<br>
+      Job Title · Company · Salary · Location · About<br><br>
+      Flat text files written to <code>data/&lt;region&gt;/</code> as a local cache.<br><br>
+      <code>uv run run_summarizer.py --region japan</code>
+    </div>
+    <div class="tags">
+      <span class="tag">summarizers/summarizer.py</span>
+      <span class="tag">mistral-small-latest</span>
+    </div>
+  </div>
+
+  <!-- ARROW -->
+  <div class="pipe-arrow animate d3">
+    <svg width="24" height="18" viewBox="0 0 24 18" fill="none">
+      <line x1="0" y1="9" x2="20" y2="9" stroke="#3a3a5c" stroke-width="1.5"/>
+      <polyline points="14,3 20,9 14,15" stroke="#3a3a5c" stroke-width="1.5" fill="none"/>
+    </svg>
+    <span>jobs +</span>
+    <span>summaries</span>
+  </div>
+
+  <!-- MONGODB -->
+  <div class="box p3 animate d3">
+    <div class="box-title">MONGODB ATLAS — jobagent db</div>
+    <div class="box-body">
+      Primary data store for all pipeline output.<br><br>
+      <strong style="color:var(--text)">jobs</strong> — raw listings (region, scraped_date, all EN fields)<br>
+      <strong style="color:var(--text)">summaries</strong> — AI summaries (region, summarized_date, summary, tags, stack, remote)<br><br>
+      Flat <code>data/&lt;region&gt;/*.txt</code> files written in parallel as a local fallback cache.
+    </div>
+    <div class="tags">
+      <span class="tag">db/client.py</span>
+      <span class="tag">db/models.py</span>
+      <span class="tag">pymongo ≥ 4.15.5</span>
+    </div>
+  </div>
+
+</div>
+
+<!-- ── down connector ── -->
+<div class="down-arrow animate d4">
+  <svg width="18" height="28" viewBox="0 0 18 28" fill="none">
+    <line x1="9" y1="0" x2="9" y2="22" stroke="#3a3a5c" stroke-width="1.5"/>
+    <polyline points="3,16 9,22 15,16" stroke="#3a3a5c" stroke-width="1.5" fill="none"/>
+  </svg>
+  <span>orchestrated by pipeline StateGraph</span>
+</div>
+
+<!-- ═══════════════════════════════════════
+     SECTION 2 — PIPELINE ORCHESTRATOR
+════════════════════════════════════════ -->
+<div class="section-label">02 &nbsp;/&nbsp; pipeline orchestrator &nbsp;(langgraph stategraph)</div>
+
+<div class="pipeline-panel animate d4">
+  <div class="pipeline-panel-label">langgraph stategraph · pipeline/orchestrator.py</div>
+
+  <div class="agent-row">
+
+    <!-- SCHEDULER -->
+    <div class="box p4">
+      <div class="box-title">TRIGGER</div>
+      <div class="box-body">
+        <strong style="color:var(--text)">Background scheduler</strong><br>
+        <code>asyncio.create_task(run_pipeline_scheduler())</code><br>
+        runs inside the bot process on startup, fires every <code>PIPELINE_INTERVAL_DAYS</code>.<br><br>
+        <strong style="color:var(--text)">Manual CLI</strong><br>
+        <code>uv run run_pipeline.py [--force] [--region X] [--no-notify]</code><br><br>
+        Render sets <code>PIPELINE_INTERVAL_DAYS=9999</code> —<br>
+        scheduler is effectively disabled there.<br>
+        Run the pipeline from local machine to refresh data.
+      </div>
+      <div class="tags">
+        <span class="tag">run_pipeline.py</span>
+        <span class="tag">bot/main.py</span>
+      </div>
+    </div>
+
+    <!-- ARROW -->
+    <div class="bi-arrow">
+      <svg width="24" height="14" viewBox="0 0 24 14" fill="none">
+        <line x1="0" y1="7" x2="20" y2="7" stroke="#3a3a5c" stroke-width="1.5"/>
+        <polyline points="14,2 20,7 14,12" stroke="#3a3a5c" stroke-width="1.5" fill="none"/>
+      </svg>
+      <span>PipelineState</span>
+    </div>
+
+    <!-- CHECK FRESHNESS -->
+    <div class="box p2">
+      <div class="box-title">CHECK_FRESHNESS NODE</div>
+      <div class="box-body">
+        Checks MongoDB <code>jobs</code> collection for each region's last <code>scraped_date</code>.<br><br>
+        If <code>today − scraped_date &gt;= interval_days</code> → region is stale.<br><br>
+        <strong style="color:var(--text)">route_after_freshness()</strong><br>
+        All fresh → <code>END</code> immediately.<br>
+        Stale regions → <code>Send("scrape_summarize", …)</code> once per region — runs them in <strong style="color:var(--text)">parallel</strong>.
+      </div>
+      <div class="tags">
+        <span class="tag">langgraph.types.Send</span>
+        <span class="tag">fan-out</span>
+      </div>
+    </div>
+
+    <!-- ARROW -->
+    <div class="bi-arrow">
+      <svg width="24" height="14" viewBox="0 0 24 14" fill="none">
+        <line x1="0" y1="7" x2="20" y2="7" stroke="#3a3a5c" stroke-width="1.5"/>
+        <polyline points="14,2 20,7 14,12" stroke="#3a3a5c" stroke-width="1.5" fill="none"/>
+      </svg>
+      <span>results[ ]</span>
+      <span>fan-in</span>
+      <svg width="24" height="14" viewBox="0 0 24 14" fill="none" style="transform:scaleX(-1)">
+        <line x1="0" y1="7" x2="20" y2="7" stroke="#3a3a5c" stroke-width="1.5"/>
+        <polyline points="14,2 20,7 14,12" stroke="#3a3a5c" stroke-width="1.5" fill="none"/>
+      </svg>
+    </div>
+
+    <!-- SCRAPE + NOTIFY -->
+    <div class="box p2">
+      <div class="box-title">SCRAPE_SUMMARIZE &amp; NOTIFY_USERS</div>
+      <div class="box-body">
+        <strong style="color:var(--text)">scrape_summarize</strong> (parallel per region)<br>
+        Playwright browser → scrape listings → translate → Mistral summarize → write to MongoDB <code>jobs</code> + <code>summaries</code> + <code>data/*.txt</code>.<br>
+        Each region runs its own Playwright instance concurrently.<br><br>
+        <strong style="color:var(--text)">notify_users</strong> (fan-in, runs once)<br>
+        Reads <code>users</code> collection (subscribed=true).<br>
+        Sends Telegram broadcast with region summaries count.<br>
+        Updates <code>last_notified</code> timestamp per user.
+      </div>
+      <div class="tags">
+        <span class="tag">playwright ≥ 1.58.0</span>
+        <span class="tag">mistralai ≥ 1.12.4</span>
+        <span class="tag">Telegram broadcast</span>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- ── down connector ── -->
+<div class="down-arrow animate d5">
+  <svg width="18" height="28" viewBox="0 0 18 28" fill="none">
+    <line x1="9" y1="0" x2="9" y2="22" stroke="#3a3a5c" stroke-width="1.5"/>
+    <polyline points="3,16 9,22 15,16" stroke="#3a3a5c" stroke-width="1.5" fill="none"/>
+  </svg>
+  <span>bot reads summaries from MongoDB (txt files as fallback)</span>
+</div>
+
+<!-- ═══════════════════════════════════════
+     SECTION 3 — LANGGRAPH AGENT
+════════════════════════════════════════ -->
+<div class="section-label">03 &nbsp;/&nbsp; langgraph react agent &nbsp;(live · telegram bot)</div>
+
+<div class="agent-panel animate d5">
+  <div class="agent-panel-label">langgraph stategraph · bot/agent.py</div>
+
+  <div class="agent-row">
+
+    <!-- TELEGRAM -->
+    <div class="box p4">
+      <div class="box-title">TELEGRAM BOT</div>
+      <div class="box-body">
+        python-telegram-bot — long polling<br><br>
+        <strong style="color:var(--text)">/start · /help</strong> → welcome message<br>
+        <strong style="color:var(--text)">/jobs</strong> → latest listings (all regions)<br>
+        <strong style="color:var(--text)">/search [kw]</strong> → keyword filter<br>
+        <strong style="color:var(--text)">/subscribe · /unsubscribe</strong> → notifications<br>
+        <strong style="color:var(--text)">/clear</strong> → delete LangGraph checkpoints<br><br>
+        <strong style="color:var(--text)">Free text</strong> → routed to LangGraph agent<br><br>
+        <code>thread_id = str(telegram user_id)</code><br><br>
+        All replies go through <code>send_reply()</code> —<br>
+        the single formatting gateway.
+      </div>
+      <div class="tags">
+        <span class="tag">bot/main.py</span>
+        <span class="tag">bot/handlers.py</span>
+        <span class="tag">bot/formatting.py</span>
+      </div>
+    </div>
+
+    <!-- BIDIRECTIONAL ARROW -->
+    <div class="bi-arrow">
+      <svg width="24" height="14" viewBox="0 0 24 14" fill="none">
+        <line x1="0" y1="7" x2="20" y2="7" stroke="#3a3a5c" stroke-width="1.5"/>
+        <polyline points="14,2 20,7 14,12" stroke="#3a3a5c" stroke-width="1.5" fill="none"/>
+      </svg>
+      <span>HumanMessage</span>
+      <svg width="24" height="14" viewBox="0 0 24 14" fill="none" style="transform:scaleX(-1)">
+        <line x1="0" y1="7" x2="20" y2="7" stroke="#3a3a5c" stroke-width="1.5"/>
+        <polyline points="14,2 20,7 14,12" stroke="#3a3a5c" stroke-width="1.5" fill="none"/>
+      </svg>
+      <span>AIMessage</span>
+    </div>
+
+    <!-- AGENT NODE -->
+    <div class="box p1">
+      <div class="box-title">AGENT NODE</div>
+      <div class="box-body">
+        <code>ChatMistralAI</code> with 5 tools bound<br><br>
+        <strong style="color:var(--text)">Intent routing:</strong> detects regional / job-query patterns and injects a <code>[MUST call …]</code> hint into the current message — ephemeral, never persisted.<br><br>
+        <strong style="color:var(--text)">Conversation summarisation:</strong> if history &gt; 20 messages, <code>summarize_node</code> fires first (using <code>llm_plain</code>, no tools) — condenses old msgs into one summary message, removes the rest via <code>RemoveMessage</code>.<br><br>
+        System prompt: career assistant for Asia. Refuses off-topic. Telegram Markdown v1 format only.
+      </div>
+      <div class="tags">
+        <span class="tag">langchain-mistralai ≥ 1.1.2</span>
+        <span class="tag">bot/agent.py</span>
+        <span class="tag">intent routing</span>
+        <span class="tag">summarize_node</span>
+      </div>
+    </div>
+
+    <!-- BIDIRECTIONAL ARROW -->
+    <div class="bi-arrow">
+      <svg width="24" height="14" viewBox="0 0 24 14" fill="none">
+        <line x1="0" y1="7" x2="20" y2="7" stroke="#3a3a5c" stroke-width="1.5"/>
+        <polyline points="14,2 20,7 14,12" stroke="#3a3a5c" stroke-width="1.5" fill="none"/>
+      </svg>
+      <span>tool_calls</span>
+      <svg width="24" height="14" viewBox="0 0 24 14" fill="none" style="transform:scaleX(-1)">
+        <line x1="0" y1="7" x2="20" y2="7" stroke="#3a3a5c" stroke-width="1.5"/>
+        <polyline points="14,2 20,7 14,12" stroke="#3a3a5c" stroke-width="1.5" fill="none"/>
+      </svg>
+      <span>ToolMessage</span>
+    </div>
+
+    <!-- TOOL NODE -->
+    <div class="box p3">
+      <div class="box-title">TOOL NODE</div>
+      <div class="box-body">
+        Executes whichever tool the agent requested.<br>
+        Returns result as ToolMessage back to agent node.<br><br>
+        <strong style="color:var(--text)">get_regions()</strong> — available regions + freshness date<br>
+        <strong style="color:var(--text)">list_jobs(region)</strong> — latest summaries from MongoDB<br>
+        <strong style="color:var(--text)">search_jobs(query, region?)</strong> — keyword + tag match<br>
+        <strong style="color:var(--text)">trigger_refresh(region)</strong> — informs user refresh is CLI-only<br>
+        <strong style="color:var(--text)">check_subscription_status(user_id)</strong> — MongoDB users lookup<br><br>
+        Data source: MongoDB <code>summaries</code> collection, with automatic fallback to <code>data/*.txt</code> files.
+      </div>
+      <div class="tags">
+        <span class="tag">bot/tools.py</span>
+        <span class="tag">langgraph ToolNode</span>
+        <span class="tag">MongoDB-first</span>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- CROSS-CUTTING ROW -->
+  <div class="section-label" style="margin-bottom:12px">cross-cutting concerns</div>
+  <div class="three-col" style="margin-bottom: 0;">
+
+    <div class="box p4" style="border-color:#4a3a2a">
+      <div class="box-title">GUARDRAILS</div>
+      <div class="box-body">
+        <strong style="color:var(--text)">Input:</strong> regex-based prompt injection detection · 2 000 char limit · blocks early, before agent is called.<br><br>
+        <strong style="color:var(--text)">Output:</strong> strips any accidentally leaked CLI commands · truncates to Telegram's 4 096-char message limit · collapses blank lines.<br><br>
+        Zero external dependencies — stdlib <code>re</code> only. Safe within Render's 512 MB RAM.
+      </div>
+      <div class="tags">
+        <span class="tag">bot/guardrails.py</span>
+      </div>
+    </div>
+
+    <div class="box p1" style="border-color:#2a2050">
+      <div class="box-title">OBSERVABILITY</div>
+      <div class="box-body">
+        Optional Langfuse integration — enabled when <code>LANGFUSE_PUBLIC_KEY</code> and <code>LANGFUSE_SECRET_KEY</code> are set.<br><br>
+        Traces every agent invocation with: LLM call spans, token counts, tool call inputs/outputs, latency, and user/session IDs.<br><br>
+        <code>trace_handler.flush()</code> called in a <code>finally</code> block on every message to guarantee events are sent.
+      </div>
+      <div class="tags">
+        <span class="tag">bot/observability.py</span>
+        <span class="tag">langfuse ≥ 2.0.0</span>
+      </div>
+    </div>
+
+    <div class="box p4" style="border-color:#3a4a2a">
+      <div class="box-title">FORMATTING GATEWAY</div>
+      <div class="box-body">
+        <strong style="color:var(--text)">send_reply()</strong> is the <em>only</em> function that sends messages to users. Every handler, error path, and guardrail response passes through it.<br><br>
+        Normalises LLM output to Telegram Markdown v1 (<code>**bold**</code> → <code>*bold*</code>, strips <code>###</code> headers). On Telegram parse failure, strips all markdown symbols and retries as plain text — users never see raw <code>*stars*</code>.
+      </div>
+      <div class="tags">
+        <span class="tag">bot/formatting.py</span>
+        <span class="tag">ParseMode.MARKDOWN</span>
+      </div>
+    </div>
+
+  </div>
+
+</div>
+
+<!-- ═══════════════════════════════════════
+     SECTION 4 — MONGODB DATA MODEL
+════════════════════════════════════════ -->
+<div class="section-label">04 &nbsp;/&nbsp; mongodb atlas — jobagent database</div>
+
+<div class="storage-grid animate d6" style="margin-bottom:48px">
+
+  <div class="box p3">
+    <div class="box-title">PIPELINE COLLECTIONS</div>
+    <div class="box-body">
+      <strong style="color:var(--text)">jobs</strong><br>
+      Raw scraped listings. One doc per listing.<br>
+      <code>region · scraped_date · source · url</code><br>
+      <code>title · company · location · salary · deadline · description</code> (all EN translated)<br><br>
+      <strong style="color:var(--text)">summaries</strong><br>
+      AI-generated summaries. One doc per listing.<br>
+      <code>region · summarized_date · source · url · summary</code><br>
+      <code>tags[] · stack[] · remote</code><br><br>
+      <strong style="color:var(--text)">users</strong><br>
+      Explicit opt-in via <code>/subscribe</code>. Not created on first chat.<br>
+      <code>user_id · username · first_name · subscribed</code><br>
+      <code>regions[] · subscribed_at · last_notified</code>
+    </div>
+    <div class="tags">
+      <span class="tag">db/models.py</span>
+      <span class="tag">pymongo bulk_write</span>
+    </div>
+  </div>
+
+  <div class="box p1">
+    <div class="box-title">CONVERSATION STATE COLLECTIONS</div>
+    <div class="box-body">
+      <strong style="color:var(--text)">checkpoints</strong><br>
+      Full <code>AgentState</code> (message history) per user, per graph step.<br>
+      Stored as msgpack binary blobs — preserves Python object types faithfully.<br>
+      Keyed by <code>thread_id = str(telegram user_id)</code>.<br>
+      Auto-created for every user who sends any message.<br>
+      Survives bot restarts — conversation context is never lost.<br><br>
+      <strong style="color:var(--text)">checkpoint_writes</strong><br>
+      Write-ahead log. Partial states written here first before promotion to <code>checkpoints</code>. Enables crash recovery mid-graph-step.<br><br>
+      Cleared per-user via <code>/clear</code> command.
+    </div>
+    <div class="tags">
+      <span class="tag">MongoDBSaver</span>
+      <span class="tag">langgraph-checkpoint-mongodb ≥ 0.3.1</span>
+      <span class="tag">msgpack binary</span>
+    </div>
+  </div>
+
+</div>
+
+<!-- ═══════════════════════════════════════
+     SECTION 5 — INFRASTRUCTURE
+════════════════════════════════════════ -->
+<div class="section-label">05 &nbsp;/&nbsp; infrastructure &amp; deployment</div>
+
+<div class="two-col animate d7">
+
+  <div class="box p5">
+    <div class="box-title">RENDER FREE TIER</div>
+    <div class="box-body">
+      Web service, 512 MB RAM, shared CPU.<br>
+      Playwright/Chromium is <strong style="color:var(--text)">not installed</strong> — pipeline runs from local machine only.<br><br>
+      <strong style="color:var(--text)">Health server:</strong> <code>_ThreadingHTTPServer</code> binds to <code>$PORT</code> on startup. Each ping is handled in its own thread, so the event loop is never blocked. Render and UptimeRobot can always reach <code>/health</code>.<br><br>
+      <strong style="color:var(--text)">Self-ping keep-alive:</strong> <code>self_ping_loop()</code> hits <code>RENDER_EXTERNAL_URL/health</code> every 4 minutes via Render's own reverse proxy — counts as inbound traffic and resets the 15-minute inactivity timer. The service never sleeps.
+    </div>
+    <div class="tags">
+      <span class="tag">bot/health.py</span>
+      <span class="tag">render.yaml</span>
+      <span class="tag">ThreadingMixIn</span>
+    </div>
+  </div>
+
+  <div class="box p5">
+    <div class="box-title">EXTERNAL SERVICES</div>
+    <div class="box-body">
+      <strong style="color:var(--text)">MongoDB Atlas (M0 free)</strong><br>
+      All persistent data. IP whitelist must include <code>0.0.0.0/0</code> or Render's outbound IP.<br><br>
+      <strong style="color:var(--text)">Mistral AI</strong><br>
+      <code>mistral-small-latest</code> used for both job summarisation (pipeline) and the ReAct agent (bot). Separate instances: <code>llm</code> (tools bound) and <code>llm_plain</code> (no tools — summarisation only).<br><br>
+      <strong style="color:var(--text)">UptimeRobot</strong><br>
+      External monitor pings <code>/health</code> every 5 minutes. Paired with the internal self-ping so Render never sleeps even when UptimeRobot backs off its check interval.<br><br>
+      <strong style="color:var(--text)">Langfuse (optional)</strong><br>
+      Cloud observability — set <code>LANGFUSE_PUBLIC_KEY</code> + <code>SECRET_KEY</code> to enable.
+    </div>
+    <div class="tags">
+      <span class="tag">UptimeRobot</span>
+      <span class="tag">Langfuse</span>
+      <span class="tag">Telegram Bot API</span>
+    </div>
+  </div>
+
+</div>
+
+<hr>
+
+<!-- LEGEND -->
+<div class="legend">
+  <div class="legend-item"><div class="ldot" style="background:var(--p1)"></div>LangGraph Agent / Scraper</div>
+  <div class="legend-item"><div class="ldot" style="background:var(--p2)"></div>Pipeline Orchestrator / Summarizer</div>
+  <div class="legend-item"><div class="ldot" style="background:var(--p3)"></div>Data / Tools / MongoDB</div>
+  <div class="legend-item"><div class="ldot" style="background:var(--p4)"></div>Telegram Bot / Guardrails / Formatting</div>
+  <div class="legend-item"><div class="ldot" style="background:var(--p5)"></div>Infrastructure / Deployment</div>
+</div>
+
+</body>
+</html>
